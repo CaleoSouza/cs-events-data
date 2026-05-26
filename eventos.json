@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T18:52:58Z",
-  "total": 1,
+  "updated_at": "2026-05-26T18:54:42Z",
+  "total": 2,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -12,6 +12,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-05-26 15:52:57"
+    },
+    {
+      "uuid": "59c5345e-2ed4-4cc4-a06a-4311a0b12751",
+      "titulo": "Outros Ministro Eucaristia",
+      "descricao": "Ministro Zé",
+      "data_inicio": "2026-05-31 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-05-26 15:54:40"
     }
   ]
 }
