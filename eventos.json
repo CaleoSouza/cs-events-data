@@ -1,17 +1,5 @@
 {
-  "updated_at": "2026-05-26T18:50:10Z",
-  "total": 1,
-  "eventos": [
-    {
-      "uuid": "7c4c390e-bcc4-484c-8ebc-064eb0ecb3b7",
-      "titulo": "Casamento gvgvjhuvb v",
-      "descricao": "j9ioijj",
-      "data_inicio": "2026-05-28 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "casamento",
-      "status": "ativo",
-      "criado_em": "2026-05-25 21:19:15"
-    }
-  ]
+  "updated_at": "2026-05-26T18:50:13Z",
+  "total": 0,
+  "eventos": []
 }
