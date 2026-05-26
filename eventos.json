@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T20:57:13Z",
-  "total": 3,
+  "updated_at": "2026-05-26T20:57:37Z",
+  "total": 2,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -23,17 +23,6 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-26 15:54:40"
-    },
-    {
-      "uuid": "fca1654c-ec72-4fc1-a9e1-50c8e7aaef82",
-      "titulo": "Outros Reunião Ivone e Antonio",
-      "descricao": "Reunião",
-      "data_inicio": "2026-06-02 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "outros",
-      "status": "ativo",
-      "criado_em": "2026-05-26 15:58:03"
     }
   ]
 }
