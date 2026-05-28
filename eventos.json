@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:07:48Z",
-  "total": 8,
+  "updated_at": "2026-05-28T23:07:55Z",
+  "total": 7,
   "eventos": [
     {
       "uuid": "e8ca7df4-7808-474c-b4d8-81081e4e061c",
@@ -78,17 +78,6 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 19:51:15"
-    },
-    {
-      "uuid": "454975ac-ebf3-42f9-b570-4cc07273f1c6",
-      "titulo": "15 Anos oiuuioooui",
-      "descricao": "uiouuiuioui",
-      "data_inicio": "2026-06-27 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-05-28 19:53:09"
     }
   ]
 }
