@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T22:48:16Z",
-  "total": 4,
+  "updated_at": "2026-05-28T22:48:48Z",
+  "total": 5,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -23,6 +23,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-26 15:54:40"
+    },
+    {
+      "uuid": "d208371a-8bcb-406b-9f4e-b8a3fcec0bb2",
+      "titulo": "Outros Caleo",
+      "descricao": "Consulta Sombrio as 15h",
+      "data_inicio": "2026-06-05 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-05-28 19:48:47"
     },
     {
       "uuid": "00cc3a6a-a01d-4c96-af41-344ccc0a6deb",
