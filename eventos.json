@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:22:53Z",
-  "total": 13,
+  "updated_at": "2026-05-28T23:26:39Z",
+  "total": 14,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -144,6 +144,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-28 20:22:52"
+    },
+    {
+      "uuid": "41fb7277-ee1d-456d-9d1d-2a091fecf104",
+      "titulo": "Infantil 1 Ano Antônia",
+      "descricao": "25 de Julho de 2026 (Sábado) no Salão Comunitário da Comunidade de Tenente em Jacinto Machado / SC, tendo início os trabalhos ás 14:15h e Aniversário ás 15:00h.",
+      "data_inicio": "2026-07-25 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:26:38"
     }
   ]
 }
