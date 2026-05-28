@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:13:18Z",
-  "total": 7,
+  "updated_at": "2026-05-28T23:14:57Z",
+  "total": 8,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -78,6 +78,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-05-28 20:13:17"
+    },
+    {
+      "uuid": "1a42742d-c924-47f9-9bae-dc40d4bf4fe6",
+      "titulo": "Gestante Jaine e Isael",
+      "descricao": "Sessão Fotográfica Ouro Gestante de Jaíne e Isael a realizar-se no dia 23 de Junho de 2026 (Terça Feira).",
+      "data_inicio": "2026-06-23 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "gestante",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:14:56"
     }
   ]
 }
