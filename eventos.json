@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:28:33Z",
-  "total": 15,
+  "updated_at": "2026-05-28T23:29:53Z",
+  "total": 16,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -166,6 +166,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 20:28:31"
+    },
+    {
+      "uuid": "8bf10031-91e1-40dd-acea-c42b0dd321e6",
+      "titulo": "Pré Wedding Luana e Vitor",
+      "descricao": "Sessão Fotográfica Pré Wedding de Luana e Vitor\n- Opção Selecionada: Prata\n- Data: 28 de Julho de 2026 (Terça Feira)\n- Local: ___________à definir.",
+      "data_inicio": "2026-07-28 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:29:51"
     }
   ]
 }
