@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:29:53Z",
-  "total": 16,
+  "updated_at": "2026-05-28T23:31:16Z",
+  "total": 17,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -177,6 +177,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-05-28 20:29:51"
+    },
+    {
+      "uuid": "b15d2ac3-ab9d-4954-8dee-6027e3978ccf",
+      "titulo": "Sessão 15 Anos Maria Clara (Kristyan)",
+      "descricao": "Sessão Fotográfica 15 Anos de Maria Clara Paulino Recco\n- Opção Selecionada: Diamante\n- Data: 23 de Julho de 2026 (Quinta Feira)\n- Local: ___ (À definir)",
+      "data_inicio": "2026-07-29 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "sessão 15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:31:14"
     }
   ]
 }
