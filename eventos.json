@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:21:11Z",
-  "total": 12,
+  "updated_at": "2026-05-28T23:22:53Z",
+  "total": 13,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -133,6 +133,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 20:21:09"
+    },
+    {
+      "uuid": "eb622f7a-3869-4fa1-86d0-652924d1d608",
+      "titulo": "15 Anos Lara",
+      "descricao": "Cobertura Fotográfica da Festa de 15 Anos de Lara Matos dos Santos\n- Opção Selecionada: 01\n- Data: 25 de Julho de 2026 (Sábado)\n- Horário do início do making of: _______________________________________ à definir.\n- Local do making of: _________________________________________________à definir.\n- Horário do início do Aniversário: ______________________________________ à definir.\n- Local da Recepção e Festa: Sítio do Cássio, Balneário Gaivota / SC",
+      "data_inicio": "2026-07-25 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:22:52"
     }
   ]
 }
