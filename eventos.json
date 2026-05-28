@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T22:53:45Z",
-  "total": 9,
+  "updated_at": "2026-05-28T23:07:48Z",
+  "total": 8,
   "eventos": [
     {
       "uuid": "e8ca7df4-7808-474c-b4d8-81081e4e061c",
@@ -78,17 +78,6 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 19:51:15"
-    },
-    {
-      "uuid": "b25b7b55-e2d8-45ea-8992-1d1f55ed57c1",
-      "titulo": "Outros iopoipoioipiop",
-      "descricao": "piopoipioiop",
-      "data_inicio": "2026-06-19 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "outros",
-      "status": "ativo",
-      "criado_em": "2026-05-28 19:53:43"
     },
     {
       "uuid": "454975ac-ebf3-42f9-b570-4cc07273f1c6",
