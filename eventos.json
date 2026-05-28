@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T22:40:46Z",
-  "total": 3,
+  "updated_at": "2026-05-28T22:43:39Z",
+  "total": 4,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -34,6 +34,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-26 18:47:38"
+    },
+    {
+      "uuid": "566de8b9-536b-47f7-aec7-72eb9f1a4198",
+      "titulo": "Sessão 15 Anos Lara de Borba",
+      "descricao": "Sessão Fotográfica 15 Anos de Lara de Borba\n- Opção Selecionada: Diamante\n- Data: 09 de Junho de 2026 (Terça Feira)\n- Local:",
+      "data_inicio": "2026-06-09 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "sessão 15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-28 19:43:38"
     }
   ]
 }
