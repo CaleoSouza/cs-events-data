@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:14:57Z",
-  "total": 8,
+  "updated_at": "2026-05-28T23:15:57Z",
+  "total": 9,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -89,6 +89,17 @@
       "categoria": "gestante",
       "status": "ativo",
       "criado_em": "2026-05-28 20:14:56"
+    },
+    {
+      "uuid": "047af769-f763-4d4a-8448-c56e109bd8ff",
+      "titulo": "Família Valeria e Samuel",
+      "descricao": "Mini Sessão Familia Jardim 17h",
+      "data_inicio": "2026-06-30 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "família",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:15:56"
     }
   ]
 }
