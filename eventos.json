@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:11:16Z",
-  "total": 6,
+  "updated_at": "2026-05-28T23:13:18Z",
+  "total": 7,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -67,6 +67,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 19:51:15"
+    },
+    {
+      "uuid": "261c5ce4-3f9a-4132-8d45-0fde6238e090",
+      "titulo": "Infantil Fernanda 2 Anos",
+      "descricao": "Cobertura Fotográfica do Aniversário de 2 Anos de Fernanda Pereira Rzatki a realizar-se no dia 20 de Junho de 2026 (Sábado) na AACC Cooperja localizado no Bairro Picadão em Jacinto Machado / SC, tendo início os trabalhos ás 14:45h e Aniversário ás 15:30h.",
+      "data_inicio": "2026-06-20 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:13:17"
     }
   ]
 }
