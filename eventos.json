@@ -1,18 +1,7 @@
 {
-  "updated_at": "2026-05-28T23:07:55Z",
-  "total": 7,
+  "updated_at": "2026-05-28T23:11:16Z",
+  "total": 6,
   "eventos": [
-    {
-      "uuid": "e8ca7df4-7808-474c-b4d8-81081e4e061c",
-      "titulo": "15 Anos hfhtrth",
-      "descricao": "hghfghfg",
-      "data_inicio": "2026-05-29 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-05-28 19:52:36"
-    },
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
       "titulo": "Casamento Detinha e Emerson",
