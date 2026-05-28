@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:17:41Z",
-  "total": 10,
+  "updated_at": "2026-05-28T23:19:49Z",
+  "total": 11,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -111,6 +111,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 20:17:39"
+    },
+    {
+      "uuid": "33ffda0d-d494-43fb-9f2e-f2097be02eec",
+      "titulo": "Casamento Milenia e Henrique",
+      "descricao": "Cobertura Fotográfica do Casamento de Henrique e Milenia\n- Opção Selecionada: Diamante\n- Data: 11 de Julho de 2026 (Sábado)\n- Horário do início do Making Of do Noivo: _________________à definir\n- Local do Making Of do Noivo: __________________________à definir\n- Horário do início do Making Of da Noiva: _________________à definir\n- Local do Making Of da Noiva: ___________________________à definir•\t1 Quadro Canvas na Moldura Premium 90x120cm\n- Horário do início da Cerimônia: 16:00h\n- Local da Cerimônia: Igreja Matriz Santa Terezinha de Jacinto Machado / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Salão Paroquial de Jacinto Machado / SC",
+      "data_inicio": "2026-07-11 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:19:47"
     }
   ]
 }
