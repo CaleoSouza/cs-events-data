@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:15:57Z",
-  "total": 9,
+  "updated_at": "2026-05-28T23:17:41Z",
+  "total": 10,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -100,6 +100,17 @@
       "categoria": "família",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
+    },
+    {
+      "uuid": "395c6132-c14e-4694-8af1-d49c1a311791",
+      "titulo": "Outros Iam Gustavo",
+      "descricao": "Aniversário 7 Anos - Convidado?",
+      "data_inicio": "2026-07-05 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:17:39"
     }
   ]
 }
