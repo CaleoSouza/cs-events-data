@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T23:19:49Z",
-  "total": 11,
+  "updated_at": "2026-05-28T23:21:11Z",
+  "total": 12,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -122,6 +122,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-05-28 20:19:47"
+    },
+    {
+      "uuid": "bffc2e67-d732-46de-9898-1bbf66cdba63",
+      "titulo": "Outros Crisma",
+      "descricao": "Inicio às 15h - 90 Adolecentes",
+      "data_inicio": "2026-07-12 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:21:09"
     }
   ]
 }
