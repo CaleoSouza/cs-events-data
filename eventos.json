@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T01:14:46Z",
+  "updated_at": "2026-05-30T01:16:42Z",
   "total": 37,
   "eventos": [
     {
@@ -136,12 +136,12 @@
     },
     {
       "uuid": "bffc2e67-d732-46de-9898-1bbf66cdba63",
-      "titulo": "Outros Crisma",
+      "titulo": "Cobertura de Evento Crisma",
       "descricao": "Inicio às 15h - 90 Adolecentes",
       "data_inicio": "2026-07-12 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "cobertura de evento",
       "status": "ativo",
       "criado_em": "2026-05-28 20:21:09"
     },
