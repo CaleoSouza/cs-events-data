@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:48:40Z",
-  "total": 21,
+  "updated_at": "2026-05-30T00:51:01Z",
+  "total": 22,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -232,6 +232,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-29 21:28:09"
+    },
+    {
+      "uuid": "3686de8d-a810-4c61-aa2c-6e53f00e443d",
+      "titulo": "Bodas Noeli e Zeca",
+      "descricao": "Cobertura Fotográfica das Bodas de Ouro de Maria Noeli e José (Neli e Zeca)\n- Data: 20 de Setembro de 2026 (Domingo)\n- Horário do início da Cerimônia: 11:00h\n- Local da Celebração: Igreja São Pedro, Bairro São Pedro em Sombrio / SC\n- Horário da Recepção: Logo após a Celebração\n- Local da Recepção: Celeiro Eventos, localizado no Bairro Januária em Sombrio / SC",
+      "data_inicio": "2026-09-20 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "bodas",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:50:59"
     }
   ]
 }
