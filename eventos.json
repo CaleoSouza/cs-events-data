@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:25:11Z",
-  "total": 19,
+  "updated_at": "2026-05-30T00:27:06Z",
+  "total": 20,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -210,6 +210,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-05-29 21:25:10"
+    },
+    {
+      "uuid": "1c0f023e-87bf-4df5-9b5d-b97d8d807a29",
+      "titulo": "Formatura Mirian Baltazar",
+      "descricao": "Cobertura Fotográfica do seguinte evento: \nRecepção de Formatura de Mirian da Silva Baltazar a realizar-se no dia 05 de Setembro de 2026 (Sábado), no local Sítio Flor Linda, localizado em Balneário Gaivota / SC, tendo início os trabalhos às 18:30h e o evento às 19:30h.",
+      "data_inicio": "2026-09-05 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "formatura",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:27:05"
     }
   ]
 }
