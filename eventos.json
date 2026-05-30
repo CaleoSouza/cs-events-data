@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:59:36Z",
-  "total": 28,
+  "updated_at": "2026-05-30T01:00:15Z",
+  "total": 29,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -309,6 +309,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-05-29 21:59:35"
+    },
+    {
+      "uuid": "6d9ae8b8-63f8-47d8-a41d-8e42977c8a9a",
+      "titulo": "Outros Zé",
+      "descricao": "Consulta Giuseppe 14h",
+      "data_inicio": "2026-10-19 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:00:13"
     }
   ]
 }
