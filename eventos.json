@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T01:10:38Z",
-  "total": 34,
+  "updated_at": "2026-05-30T01:12:15Z",
+  "total": 35,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -375,6 +375,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:10:37"
+    },
+    {
+      "uuid": "d0786877-59f5-4e94-a768-7df223e565a3",
+      "titulo": "Sessão 15 Anos Ana Ronconi (Angelita)",
+      "descricao": "Sessão Fotográfica 15 Anos de Ana Ronconi Trevisol\n- Opção Selecionada: Ouro\n- Data: 01 de Dezembro de 2026 (Terça Feira)\n- Local: __________ (À definir)",
+      "data_inicio": "2026-12-01 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "sessão 15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:12:13"
     }
   ]
 }
