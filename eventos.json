@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:52:41Z",
-  "total": 23,
+  "updated_at": "2026-05-30T00:53:54Z",
+  "total": 24,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -254,6 +254,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 21:52:39"
+    },
+    {
+      "uuid": "69a5bf6e-ab4f-42ba-bf45-dba744a19922",
+      "titulo": "Casamento Cí e Tayná",
+      "descricao": "Cobertura Fotográfica do Casamento de Tayná e Aldacir\n- Opção Selecionada: Ouro\n- Data: 26 de Setembro de 2026 (Sábado)\n- Horário do início do Making Of da Noiva: 14:00h\n- Local do Making Of da Noiva: Salão de Beleza Villa Chic em Turvo / SC\n- Horário do início da Cerimônia: 16:00h\n- Local da Cerimônia: Igreja Matriz Nossa Senhora da Oração de Turvo / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: AFAR Centro de Eventos em Turvo / SC",
+      "data_inicio": "2026-09-26 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:53:52"
     }
   ]
 }
