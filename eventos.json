@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:55:52Z",
-  "total": 26,
+  "updated_at": "2026-05-30T00:57:13Z",
+  "total": 27,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -287,6 +287,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 21:55:51"
+    },
+    {
+      "uuid": "eb3c8b9a-2470-4717-96e6-11b0aea0206a",
+      "titulo": "Casamento Duda e Patrick",
+      "descricao": "Cobertura Fotográfica do Casamento de Maria Eduarda e Patrick\n- Opção Selecionada: Ouro\n- Data: 10 de Outubro de 2026 (Sábado)\n- Horário do início do Making Of da Noiva: _______________________________ à definir.\n- Local do Making Of da Noiva: Stúdio MK – Sombrio / SC\n- Horário do início da Cerimônia: _______________________________________ à definir.\n- Local da Cerimônia: ________________________________________________ à definir.\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Sítio do Cássio – Balneário Gaivota / SC",
+      "data_inicio": "2026-10-10 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:57:12"
     }
   ]
 }
