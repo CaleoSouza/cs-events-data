@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:19:23Z",
-  "total": 18,
+  "updated_at": "2026-05-30T00:25:11Z",
+  "total": 19,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -199,6 +199,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-28 20:31:14"
+    },
+    {
+      "uuid": "44b844bd-1a00-4a23-a8ec-056bdef2a5af",
+      "titulo": "Casamento Luana e Vitor",
+      "descricao": "Cobertura Fotográfica do Casamento de Luana e Vitor\n- Opção Selecionada: Diamante\n- Data: 05 de Setembro de 2026 (Sábado)\n- Horário do início do Making Of do Noivo: 13:00h\n- Local do Making Of do Noivo: Daiane Lopes Make Up, Vista Alegre – Ermo / SC\n- Horário do início do Making Of da Noiva: 12:00h\n- Local do Making Of da Noiva: Estúdio Thais Machado, Centro – Ermo / SC\n- Horário do início da Cerimônia: 15:00h\n- Local da Cerimônia: Igreja de Vista Alegre em Ermo / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Saloon 449, Garuva, Sombrio / SC",
+      "data_inicio": "2026-09-05 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:25:10"
     }
   ]
 }
