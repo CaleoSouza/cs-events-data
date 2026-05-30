@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:57:13Z",
-  "total": 27,
+  "updated_at": "2026-05-30T00:59:36Z",
+  "total": 28,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -298,6 +298,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-05-29 21:57:12"
+    },
+    {
+      "uuid": "2be185a9-ee7b-4a7e-b5f7-8861f84bcaaa",
+      "titulo": "Infantil 1 Ano Marcos Vinicius",
+      "descricao": "Filho da Flávia e Fuca\nEstar as 14:15h - Inicia as 15h\nBrink Fest - Sombrio",
+      "data_inicio": "2026-10-11 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:59:35"
     }
   ]
 }
