@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T01:08:46Z",
-  "total": 33,
+  "updated_at": "2026-05-30T01:10:38Z",
+  "total": 34,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -364,6 +364,17 @@
       "categoria": "cobertura de evento",
       "status": "ativo",
       "criado_em": "2026-05-29 22:08:27"
+    },
+    {
+      "uuid": "89210237-d2e7-4620-a402-4376ceb5d4f9",
+      "titulo": "Sessão 15 Anos Ana Luiza",
+      "descricao": "Pais Talita e Nivaldo\nOpção Diamante",
+      "data_inicio": "2026-11-26 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "sessão 15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:10:37"
     }
   ]
 }
