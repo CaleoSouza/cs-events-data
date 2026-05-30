@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T01:12:59Z",
-  "total": 36,
+  "updated_at": "2026-05-30T01:14:46Z",
+  "total": 37,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -397,6 +397,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-29 22:12:57"
+    },
+    {
+      "uuid": "02e7e587-2796-42d0-a820-0560d5a25db4",
+      "titulo": "15 Anos Lara Borba",
+      "descricao": "Cobertura Fotográfica da Festa de 15 Anos de Lara de Borba\n- Opção Selecionada: 01\n- Data: 19 de Dezembro de 2026 (Sábado)\n- Horário do Início do Making Of: 14:00h\n- Local do Making Of: __________________________________________ (À definir)\n- Horário do Início do Aniversário: 19:00h\n- Local da Recepção e Festa: Sítio do Cássio, Balneário Gaivota / SC",
+      "data_inicio": "2026-12-19 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:14:44"
     }
   ]
 }
