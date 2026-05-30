@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T01:12:15Z",
-  "total": 35,
+  "updated_at": "2026-05-30T01:12:59Z",
+  "total": 36,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -386,6 +386,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:12:13"
+    },
+    {
+      "uuid": "23f10804-feae-4f7e-ab71-b58ece49962f",
+      "titulo": "Outros Zé",
+      "descricao": "Consulta Giuseppe 13:20h",
+      "data_inicio": "2026-12-15 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:12:57"
     }
   ]
 }
