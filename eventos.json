@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T14:26:59Z",
-  "total": 37,
+  "updated_at": "2026-05-30T14:28:38Z",
+  "total": 38,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -34,6 +34,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 19:48:47"
+    },
+    {
+      "uuid": "962b0cc2-4c6b-447d-9fdf-96bfebace9d7",
+      "titulo": "Mini Sessão Patricia e Chico",
+      "descricao": "Chá Revelação - Sessão Estudio as 16h \nValor R$350,00 (Caleo deu desconto)",
+      "data_inicio": "2026-06-05 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-05-30 11:28:36"
     },
     {
       "uuid": "00cc3a6a-a01d-4c96-af41-344ccc0a6deb",
