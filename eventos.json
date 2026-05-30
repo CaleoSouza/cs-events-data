@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:54:53Z",
-  "total": 25,
+  "updated_at": "2026-05-30T00:55:52Z",
+  "total": 26,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -276,6 +276,17 @@
       "categoria": "chá de bebê",
       "status": "ativo",
       "criado_em": "2026-05-29 21:54:51"
+    },
+    {
+      "uuid": "732d39b6-cd84-496f-bd4c-e2088dbce35f",
+      "titulo": "15 Anos Maria Clara",
+      "descricao": "Cobertura Fotográfica da Festa de 15 Anos de Maria Clara Paulino Recco \n- Opção Selecionada: 02\n- Data: 03 de Outubro de 2026 (Sábado)\n- Horário do Início dos trabalhos: 18:00h\n- Horário do Início do Aniversário: 19:00h\n- Local da Recepção e Festa: Palazzo Centro de Eventos, Sombrio / SC.",
+      "data_inicio": "2026-10-03 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:55:51"
     }
   ]
 }
