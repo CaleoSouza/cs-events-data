@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T01:06:21Z",
-  "total": 31,
+  "updated_at": "2026-05-30T01:07:39Z",
+  "total": 32,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -342,6 +342,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-29 22:06:19"
+    },
+    {
+      "uuid": "f3558a19-fd23-4b4b-bd97-71f8d58d0aad",
+      "titulo": "Pré Wedding Leticia Bettiol e Rafael",
+      "descricao": "Sessão Fotográfica Pré Wedding de Letícia e Rafael\n- Opção Selecionada: Prata\n- Data: 10 de Dezembro de 2026 (Quinta Feira)\n- Local: ____ à definir.",
+      "data_inicio": "2026-11-19 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:07:37"
     }
   ]
 }
