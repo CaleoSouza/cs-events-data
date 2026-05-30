@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T00:51:01Z",
-  "total": 22,
+  "updated_at": "2026-05-30T00:52:41Z",
+  "total": 23,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -243,6 +243,17 @@
       "categoria": "bodas",
       "status": "ativo",
       "criado_em": "2026-05-29 21:50:59"
+    },
+    {
+      "uuid": "0919c91a-ff81-477d-9a36-4685370fde0f",
+      "titulo": "Sessão 15 Anos Pyetra",
+      "descricao": "Mini Sessão 15 Anos e Femilia\nirmão da Stefani Fregulia",
+      "data_inicio": "2026-09-22 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "sessão 15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-29 21:52:39"
     }
   ]
 }
