@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T11:50:04Z",
-  "total": 41,
+  "updated_at": "2026-06-03T21:42:00Z",
+  "total": 40,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -34,17 +34,6 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-06-02 19:54:52"
-    },
-    {
-      "uuid": "7256a6f1-9ca9-453b-8c98-387d75eded5c",
-      "titulo": "15 Anos TESTE 01",
-      "descricao": "AIDSYBGYIUDASBIYUOBOFSAIF",
-      "data_inicio": "2026-06-03 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-06-02 19:58:12"
     },
     {
       "uuid": "d597d7bf-0304-4b93-b4f1-7796319970bf",
