@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:25:33Z",
+  "updated_at": "2026-06-09T12:07:01Z",
   "total": 39,
   "eventos": [
     {
@@ -58,17 +58,6 @@
       "criado_em": "2026-05-26 18:47:38"
     },
     {
-      "uuid": "566de8b9-536b-47f7-aec7-72eb9f1a4198",
-      "titulo": "Sessão 15 Anos Lara de Borba",
-      "descricao": "Sessão Fotográfica 15 Anos de Lara de Borba\n- Opção Selecionada: Diamante\n- Data: 09 de Junho de 2026 (Terça Feira)\n- Local:",
-      "data_inicio": "2026-06-09 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "sessão 15 anos",
-      "status": "ativo",
-      "criado_em": "2026-05-28 19:43:38"
-    },
-    {
       "uuid": "4d1f900f-34c4-4d7e-8879-4dd42db57b8f",
       "titulo": "Outros Julia",
       "descricao": "Coleta de foto passaporte  - 15:25h",
@@ -89,6 +78,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-28 19:51:15"
+    },
+    {
+      "uuid": "566de8b9-536b-47f7-aec7-72eb9f1a4198",
+      "titulo": "15 Anos 15 Anos Lara de Borba",
+      "descricao": "Sessão Fotográfica 15 Anos de Lara de Borba\n- Opção Selecionada: Diamante\n- Data: 09 de Junho de 2026 (Terça Feira)\n- Local:",
+      "data_inicio": "2026-06-17 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-28 19:43:38"
     },
     {
       "uuid": "261c5ce4-3f9a-4132-8d45-0fde6238e090",
