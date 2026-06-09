@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T12:07:01Z",
-  "total": 39,
+  "updated_at": "2026-06-09T13:56:03Z",
+  "total": 40,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -430,6 +430,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
+    },
+    {
+      "uuid": "77beb3d2-c7ca-475b-b4ed-64e002e86e69",
+      "titulo": "Sessão 15 Anos Gabriela Rocha",
+      "descricao": "- Opção Selecionada: Diamante\n- Data: 14 de Setembro de 2027 (Terça Feira)\n- Local: _______ (À definir)",
+      "data_inicio": "2027-09-14 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "sessão 15 anos",
+      "status": "ativo",
+      "criado_em": "2026-06-09 10:56:01"
     }
   ]
 }
