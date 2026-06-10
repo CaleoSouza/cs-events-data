@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T18:33:27Z",
-  "total": 42,
+  "updated_at": "2026-06-10T18:34:48Z",
+  "total": 43,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -441,6 +441,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
+    },
+    {
+      "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
+      "titulo": "Casamento Luiza e David",
+      "descricao": "Cobertura Fotográfica do Casamento de Luiza e David\n- Opção Selecionada: Diamante\n- Data: 12 de Junho de 2027 (Sábado)\n- Horário do início do Making Of do Noivo: 12:30h\n- Local do Making Of do Noivo: Na Casa do Noivo em Ermo / SC\n- Horário do início do Making Of da Noiva: 11:30h\n- Local do Making Of da Noiva: Na Casa da Noiva em Ermo / SC\n- Horário do início da Cerimônia: 14:00h\n- Local da Cerimônia: ________à definir.\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: JP Centro de Eventos – Ermo / SC",
+      "data_inicio": "2027-06-12 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-10 15:34:45"
     },
     {
       "uuid": "77beb3d2-c7ca-475b-b4ed-64e002e86e69",
