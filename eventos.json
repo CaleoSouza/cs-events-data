@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T17:21:23Z",
-  "total": 43,
+  "updated_at": "2026-06-16T17:21:26Z",
+  "total": 42,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -67,17 +67,6 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-05-29 09:02:59"
-    },
-    {
-      "uuid": "880e0f7c-28a1-4b2c-b455-243d32586bb6",
-      "titulo": "Outros Zé",
-      "descricao": "Consulta Giuseppe as 14h",
-      "data_inicio": "2026-06-16 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "outros",
-      "status": "ativo",
-      "criado_em": "2026-05-28 19:51:15"
     },
     {
       "uuid": "566de8b9-536b-47f7-aec7-72eb9f1a4198",
