@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T17:09:25Z",
+  "updated_at": "2026-06-17T21:03:01Z",
   "total": 42,
   "eventos": [
     {
@@ -70,12 +70,12 @@
     },
     {
       "uuid": "566de8b9-536b-47f7-aec7-72eb9f1a4198",
-      "titulo": "15 Anos Anos 15 Anos Lara de Borba",
+      "titulo": "Sessão 15 Anos Lara de Borba",
       "descricao": "Nascer do Sol - Dia Inteiro\nSessão Fotográfica 15 Anos de Lara de Borba\n- Opção Selecionada: Diamante\n- Data: 09 de Junho de 2026 (Terça Feira)\n- Local:",
       "data_inicio": "2026-06-17 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "15 anos",
+      "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-28 19:43:38"
     },
