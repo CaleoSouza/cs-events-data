@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T21:03:01Z",
-  "total": 42,
+  "updated_at": "2026-06-18T12:49:06Z",
+  "total": 43,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -111,6 +111,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
+    },
+    {
+      "uuid": "5b363d2f-e6b5-4b80-bbe4-d830872651ef",
+      "titulo": "Casamento Comunitário",
+      "descricao": "Casamento Comunitário",
+      "data_inicio": "2026-07-04 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-18 09:49:04"
     },
     {
       "uuid": "395c6132-c14e-4694-8af1-d49c1a311791",
