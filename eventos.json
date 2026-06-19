@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T22:05:06Z",
-  "total": 79,
+  "updated_at": "2026-06-19T22:05:34Z",
+  "total": 80,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -859,6 +859,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-06-09 10:56:01"
+    },
+    {
+      "uuid": "ae24c68a-6f58-4a14-86f1-0bb483d5805d",
+      "titulo": "Casamento Géssica e Guilherme",
+      "descricao": "",
+      "data_inicio": "2027-10-30 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-19 19:05:32"
     },
     {
       "uuid": "29a43b70-e104-4050-b7a6-9c7cb0eedddf",
