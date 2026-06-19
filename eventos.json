@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:49:48Z",
-  "total": 51,
+  "updated_at": "2026-06-19T21:50:25Z",
+  "total": 52,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -529,6 +529,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:49:47"
+    },
+    {
+      "uuid": "defc4679-5697-41e5-961d-64bdb474c5b2",
+      "titulo": "Casamento Letícia e Rafael",
+      "descricao": "Sítio do Cássio - Balneário Gaivota / SC",
+      "data_inicio": "2027-02-13 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:50:23"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
