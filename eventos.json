@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:53:44Z",
-  "total": 57,
+  "updated_at": "2026-06-19T21:54:19Z",
+  "total": 58,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -595,6 +595,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:42"
+    },
+    {
+      "uuid": "c1ebbbb8-5a71-42df-92b8-3a832aa7c132",
+      "titulo": "Casamento Karina e Bob",
+      "descricao": "Sítio do Cássio - Balneário Gaivota / SC",
+      "data_inicio": "2027-04-24 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:54:16"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
