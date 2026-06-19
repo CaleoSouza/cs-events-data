@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:47:32Z",
-  "total": 49,
+  "updated_at": "2026-06-19T21:49:06Z",
+  "total": 50,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -507,6 +507,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
+    },
+    {
+      "uuid": "e2eb9f6d-84c7-4a89-87c5-86267464a6b6",
+      "titulo": "Pré Wedding Karina e Bob",
+      "descricao": "Sessão Prata",
+      "data_inicio": "2027-01-29 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:49:05"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
