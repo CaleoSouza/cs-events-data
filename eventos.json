@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:31:39Z",
-  "total": 46,
+  "updated_at": "2026-06-19T21:32:56Z",
+  "total": 47,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -144,6 +144,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
+    },
+    {
+      "uuid": "598f98e1-2fa3-49b2-b6d8-839fad790cf6",
+      "titulo": "Mini Sessão Edilene Monteiro",
+      "descricao": "Mini Sessão de Formatura às 18:30h.\nFundo Branco e Preto.",
+      "data_inicio": "2026-07-02 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:32:54"
     },
     {
       "uuid": "5b363d2f-e6b5-4b80-bbe4-d830872651ef",
