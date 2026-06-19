@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:49:06Z",
-  "total": 50,
+  "updated_at": "2026-06-19T21:49:48Z",
+  "total": 51,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -518,6 +518,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:49:05"
+    },
+    {
+      "uuid": "b5a3fe76-d6de-440e-9c5d-7d3f4eae2ee2",
+      "titulo": "Pré Wedding Joice e Willian",
+      "descricao": "",
+      "data_inicio": "2027-02-11 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:49:47"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
