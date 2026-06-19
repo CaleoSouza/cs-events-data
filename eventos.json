@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:42:44Z",
-  "total": 51,
+  "updated_at": "2026-06-19T21:43:17Z",
+  "total": 50,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -419,17 +419,6 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-06-19 18:42:42"
-    },
-    {
-      "uuid": "13aa701d-8b41-4f56-88b6-4fbeca8fc5a1",
-      "titulo": "Pré Wedding Luiza e David",
-      "descricao": "Sessão Fotográfica Pré Wedding de Luiza e David\n- Opção Selecionada: Diamante\n- Data: 04 de Novembro de 2026 (Quinta Feira)\n- Local: ___________à definir.",
-      "data_inicio": "2026-11-04 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "pré wedding",
-      "status": "ativo",
-      "criado_em": "2026-06-10 15:33:25"
     },
     {
       "uuid": "ac103ff3-942c-4dcf-bb9d-d351b938f0b7",
