@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:43:17Z",
-  "total": 50,
+  "updated_at": "2026-06-19T21:47:32Z",
+  "total": 49,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -474,17 +474,6 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-06 10:25:31"
-    },
-    {
-      "uuid": "89210237-d2e7-4620-a402-4376ceb5d4f9",
-      "titulo": "Sessão 15 Anos Ana Luiza",
-      "descricao": "Pais Talita e Nivaldo\nOpção Diamante",
-      "data_inicio": "2026-11-26 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "sessão 15 anos",
-      "status": "ativo",
-      "criado_em": "2026-05-29 22:10:37"
     },
     {
       "uuid": "d0786877-59f5-4e94-a768-7df223e565a3",
