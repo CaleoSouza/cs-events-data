@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:30:17Z",
-  "total": 45,
+  "updated_at": "2026-06-19T21:31:39Z",
+  "total": 46,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -122,6 +122,17 @@
       "categoria": "gestante",
       "status": "ativo",
       "criado_em": "2026-05-28 20:14:56"
+    },
+    {
+      "uuid": "544d9a22-ff13-4777-9ee0-e1ea26ab6b80",
+      "titulo": "Outros Zé não estará à tarde.",
+      "descricao": "Zé estará em Forquilhinha durante a tarde e noite fazendo reunião com grupo de viagem.",
+      "data_inicio": "2026-06-26 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:31:37"
     },
     {
       "uuid": "047af769-f763-4d4a-8448-c56e109bd8ff",
