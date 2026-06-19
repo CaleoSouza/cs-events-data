@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:50:25Z",
-  "total": 52,
+  "updated_at": "2026-06-19T21:51:45Z",
+  "total": 53,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -540,6 +540,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-06-19 18:50:23"
+    },
+    {
+      "uuid": "2eb73180-07fa-46b0-b555-14c87f5e60a8",
+      "titulo": "Outros 1 Aninho Giuseppe",
+      "descricao": "Festa de Aniversário do Bebê mais lindo da cidade! S2",
+      "data_inicio": "2027-02-14 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:51:43"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
