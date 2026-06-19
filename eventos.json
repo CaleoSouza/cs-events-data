@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:55:02Z",
-  "total": 60,
+  "updated_at": "2026-06-19T21:55:41Z",
+  "total": 61,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -628,6 +628,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-06-19 18:55:00"
+    },
+    {
+      "uuid": "5cbc2afa-a5b5-48a6-9e80-2967722767dc",
+      "titulo": "Outros Viagem Europa Zé",
+      "descricao": "",
+      "data_inicio": "2027-05-03 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:55:39"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
