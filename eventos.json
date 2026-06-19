@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:25:23Z",
-  "total": 43,
+  "updated_at": "2026-06-19T21:27:11Z",
+  "total": 44,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -89,6 +89,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-05-28 20:13:17"
+    },
+    {
+      "uuid": "6c0253f6-63c2-4ca1-b089-c8cb69c42498",
+      "titulo": "Outros Exame Mãe do Zé",
+      "descricao": "Zé vai levar a mãe dele pra fazer um exame da mão às 14h em Araranguá.",
+      "data_inicio": "2026-06-22 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:27:09"
     },
     {
       "uuid": "1a42742d-c924-47f9-9bae-dc40d4bf4fe6",
