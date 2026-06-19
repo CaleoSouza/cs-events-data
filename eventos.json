@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T22:06:01Z",
-  "total": 80,
+  "updated_at": "2026-06-19T22:06:43Z",
+  "total": 81,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -881,6 +881,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-06-09 10:56:54"
+    },
+    {
+      "uuid": "8ef455c4-a285-44b1-ae65-e6ce7d14a879",
+      "titulo": "Formatura Heloísa De Lucca",
+      "descricao": "AFAR Turvo / SC",
+      "data_inicio": "2027-12-11 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "formatura",
+      "status": "ativo",
+      "criado_em": "2026-06-19 19:06:41"
     }
   ]
 }
