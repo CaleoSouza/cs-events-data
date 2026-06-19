@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:57:08Z",
-  "total": 69,
+  "updated_at": "2026-06-19T21:57:17Z",
+  "total": 70,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -727,6 +727,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-06-19 18:57:06"
+    },
+    {
+      "uuid": "c7662c9b-080d-44ca-add7-bfa7e3e8869c",
+      "titulo": "Outros Viagem Europa Zé",
+      "descricao": "",
+      "data_inicio": "2027-05-12 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:57:16"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
