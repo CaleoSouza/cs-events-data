@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:53:21Z",
-  "total": 56,
+  "updated_at": "2026-06-19T21:53:44Z",
+  "total": 57,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -584,6 +584,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:19"
+    },
+    {
+      "uuid": "45128a6e-eb1c-4074-93be-1b1e87bcb510",
+      "titulo": "Pré Wedding Stefani e Luan",
+      "descricao": "",
+      "data_inicio": "2027-03-11 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:53:42"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
