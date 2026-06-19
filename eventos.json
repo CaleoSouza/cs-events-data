@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:37:24Z",
-  "total": 48,
+  "updated_at": "2026-06-19T21:38:14Z",
+  "total": 49,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -265,6 +265,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-06-19 18:37:22"
+    },
+    {
+      "uuid": "91f283a6-765e-4ce5-b717-eb63d3721a69",
+      "titulo": "Outros Jubilados Cooperja",
+      "descricao": "Evento Jubilados Cooperja\n19:00h - Gabiatti - Sombrio / SC",
+      "data_inicio": "2026-08-21 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:38:12"
     },
     {
       "uuid": "44b844bd-1a00-4a23-a8ec-056bdef2a5af",
