@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T22:01:37Z",
-  "total": 75,
+  "updated_at": "2026-06-19T22:01:46Z",
+  "total": 76,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -309,6 +309,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-06-19 19:01:35"
+    },
+    {
+      "uuid": "5e19e84a-baf8-4a00-be6b-93adc9ecb540",
+      "titulo": "Outros Viagem São Paulo Zé",
+      "descricao": "",
+      "data_inicio": "2026-08-29 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-19 19:01:44"
     },
     {
       "uuid": "44b844bd-1a00-4a23-a8ec-056bdef2a5af",
