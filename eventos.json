@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:51:45Z",
-  "total": 53,
+  "updated_at": "2026-06-19T21:52:23Z",
+  "total": 54,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -551,6 +551,17 @@
       "categoria": "outros",
       "status": "ativo",
       "criado_em": "2026-06-19 18:51:43"
+    },
+    {
+      "uuid": "9d30c23e-9241-413c-ba74-5ac82ac9f217",
+      "titulo": "Infantil 5 Anos Benício",
+      "descricao": "Filho da Luana e Fábio\nPraia Grande / SC",
+      "data_inicio": "2027-02-20 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:52:21"
     },
     {
       "uuid": "d2c2e2f4-44e9-49ab-872e-313e1e00d034",
