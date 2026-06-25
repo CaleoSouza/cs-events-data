@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T18:35:23Z",
-  "total": 81,
+  "updated_at": "2026-06-25T11:05:28Z",
+  "total": 80,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -56,17 +56,6 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-26 18:47:38"
-    },
-    {
-      "uuid": "4d1f900f-34c4-4d7e-8879-4dd42db57b8f",
-      "titulo": "Outros Julia",
-      "descricao": "Coleta de foto passaporte  - 15:25h",
-      "data_inicio": "2026-06-12 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "outros",
-      "status": "ativo",
-      "criado_em": "2026-05-29 09:02:59"
     },
     {
       "uuid": "566de8b9-536b-47f7-aec7-72eb9f1a4198",
