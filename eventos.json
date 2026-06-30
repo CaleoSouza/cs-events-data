@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T13:47:43Z",
-  "total": 81,
+  "updated_at": "2026-06-30T13:52:31Z",
+  "total": 82,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -144,6 +144,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-06-19 18:32:54"
+    },
+    {
+      "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
+      "titulo": "Outros Jaine e Isael",
+      "descricao": "ESCOLHER FOTOS AS 18H",
+      "data_inicio": "2026-07-03 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-30 10:52:30"
     },
     {
       "uuid": "5b363d2f-e6b5-4b80-bbe4-d830872651ef",
