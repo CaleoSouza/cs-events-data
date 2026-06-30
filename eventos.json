@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T13:19:49Z",
-  "total": 80,
+  "updated_at": "2026-06-30T13:47:43Z",
+  "total": 81,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -188,6 +188,17 @@
       "categoria": "cobertura de evento",
       "status": "ativo",
       "criado_em": "2026-05-28 20:21:09"
+    },
+    {
+      "uuid": "34dc379d-5507-417e-aefb-5082b51c4780",
+      "titulo": "Outros Evento Debiasi",
+      "descricao": "Local\nCentro de Vivencia - Museu ao Ar Livre\nOrleans, SC\nData\n21 de julho de 2026\nTerça-feira\n7:30 - 18:30",
+      "data_inicio": "2026-07-21 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "outros",
+      "status": "ativo",
+      "criado_em": "2026-06-30 10:47:41"
     },
     {
       "uuid": "eb622f7a-3869-4fa1-86d0-652924d1d608",
