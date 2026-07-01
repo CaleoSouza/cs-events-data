@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T12:56:22Z",
-  "total": 82,
+  "updated_at": "2026-07-01T12:57:43Z",
+  "total": 83,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -661,6 +661,17 @@
       "categoria": "formatura",
       "status": "ativo",
       "criado_em": "2026-07-01 09:35:10"
+    },
+    {
+      "uuid": "71e2dc80-be6b-4aac-8215-f0618c72478f",
+      "titulo": "Casamento Lutiélen e Leonardo",
+      "descricao": "Casamento Lutiélen e Leonardo em Criciúma / SC\nCobertura Fotográfica Prata",
+      "data_inicio": "2027-04-17 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-07-01 09:57:41"
     },
     {
       "uuid": "c1ebbbb8-5a71-42df-92b8-3a832aa7c132",
