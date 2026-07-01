@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T13:52:31Z",
-  "total": 82,
+  "updated_at": "2026-07-01T12:35:11Z",
+  "total": 83,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -661,6 +661,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:42"
+    },
+    {
+      "uuid": "b5a92d5f-df2e-45bd-a0b9-d602c57d182e",
+      "titulo": "Formatura Julia",
+      "descricao": "Formatura Julia Santana",
+      "data_inicio": "2027-04-03 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "formatura",
+      "status": "ativo",
+      "criado_em": "2026-07-01 09:35:10"
     },
     {
       "uuid": "c1ebbbb8-5a71-42df-92b8-3a832aa7c132",
