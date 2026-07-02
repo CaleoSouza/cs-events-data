@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T15:42:31Z",
+  "updated_at": "2026-07-02T18:15:01Z",
   "total": 85,
   "eventos": [
     {
@@ -147,12 +147,12 @@
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
-      "titulo": "Agendamento Jaine e Isael",
+      "titulo": "Atendimento Jaine e Isael",
       "descricao": "ESCOLHER FOTOS AS 19H",
       "data_inicio": "2026-07-03 17:00",
       "data_fim": "",
       "local": "",
-      "categoria": "agendamento",
+      "categoria": "atendimento",
       "status": "ativo",
       "criado_em": "2026-06-30 10:52:30"
     },
