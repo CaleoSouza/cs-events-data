@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:49:33Z",
+  "updated_at": "2026-07-02T11:49:46Z",
   "total": 83,
   "eventos": [
     {
@@ -257,12 +257,12 @@
     },
     {
       "uuid": "b790ad1a-1648-42fa-a352-9e4c047ebb18",
-      "titulo": "Outros Consulta Giuseppe",
+      "titulo": "Particular Consulta Giuseppe",
       "descricao": "Consulta do Giuseppe em Criciúma às 13:20h.",
       "data_inicio": "2026-08-18 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:37:22"
     },
