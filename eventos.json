@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:52:21Z",
+  "updated_at": "2026-07-02T11:52:26Z",
   "total": 83,
   "eventos": [
     {
@@ -598,12 +598,12 @@
     },
     {
       "uuid": "2eb73180-07fa-46b0-b555-14c87f5e60a8",
-      "titulo": "Outros 1 Aninho Giuseppe",
+      "titulo": "Particular 1 Aninho Giuseppe",
       "descricao": "Festa de Aniversário do Bebê mais lindo da cidade! S2",
       "data_inicio": "2027-02-14 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:51:43"
     },
