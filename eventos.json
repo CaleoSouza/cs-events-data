@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T11:52:54Z",
-  "total": 83,
+  "updated_at": "2026-07-02T12:24:26Z",
+  "total": 84,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -133,6 +133,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
+    },
+    {
+      "uuid": "34692d6a-f53f-4276-86bf-d98dd13119b4",
+      "titulo": "Particular Maria Teste",
+      "descricao": "LALALA",
+      "data_inicio": "2026-07-02 09:29",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-07-02 09:24:24"
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
