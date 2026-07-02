@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T13:50:14Z",
-  "total": 85,
+  "updated_at": "2026-07-02T14:07:26Z",
+  "total": 84,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -133,17 +133,6 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
-    },
-    {
-      "uuid": "062bc43d-ada4-4fd8-8d8c-185ccb76f3f6",
-      "titulo": "Agendamento TESTE",
-      "descricao": "TESTE SE APARECER ME AVISE!",
-      "data_inicio": "2026-07-02 10:52",
-      "data_fim": "",
-      "local": "",
-      "categoria": "agendamento",
-      "status": "ativo",
-      "criado_em": "2026-07-02 10:49:28"
     },
     {
       "uuid": "33e8cbc0-5286-47d7-a418-f78e18cdb93b",
