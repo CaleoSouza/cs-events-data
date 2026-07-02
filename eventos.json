@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T18:33:33Z",
+  "updated_at": "2026-07-02T11:49:12Z",
   "total": 83,
   "eventos": [
     {
@@ -136,12 +136,12 @@
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
-      "titulo": "Outros Jaine e Isael",
+      "titulo": "Particular Jaine e Isael",
       "descricao": "ESCOLHER FOTOS AS 18H",
       "data_inicio": "2026-07-03 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-30 10:52:30"
     },
