@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T15:08:16Z",
-  "total": 85,
+  "updated_at": "2026-07-02T15:08:22Z",
+  "total": 84,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -133,17 +133,6 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
-    },
-    {
-      "uuid": "03e0e8e0-8aa8-415e-8068-a5b384b7196a",
-      "titulo": "Particular etyterte",
-      "descricao": "retre",
-      "data_inicio": "2026-07-03 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "particular",
-      "status": "ativo",
-      "criado_em": "2026-07-02 11:56:01"
     },
     {
       "uuid": "253e35c7-3a91-4463-8947-22fdbf503eaa",
