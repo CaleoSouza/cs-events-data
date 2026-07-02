@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T14:09:43Z",
-  "total": 83,
+  "updated_at": "2026-07-02T14:56:03Z",
+  "total": 85,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -133,6 +133,28 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
+    },
+    {
+      "uuid": "2f2a8d7c-ce30-4a17-ab0b-82dc1e300176",
+      "titulo": "15 Anos dgggfdg",
+      "descricao": "dfgddff",
+      "data_inicio": "2026-07-03 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-07-02 11:54:39"
+    },
+    {
+      "uuid": "03e0e8e0-8aa8-415e-8068-a5b384b7196a",
+      "titulo": "Particular etyterte",
+      "descricao": "retre",
+      "data_inicio": "2026-07-03 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-07-02 11:56:01"
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
