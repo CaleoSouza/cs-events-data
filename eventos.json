@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T15:39:48Z",
-  "total": 84,
+  "updated_at": "2026-07-02T15:42:31Z",
+  "total": 85,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -265,6 +265,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-28 20:31:14"
+    },
+    {
+      "uuid": "aa981f4c-ba47-49ff-9ed6-ca33eb222969",
+      "titulo": "Particular Visto Americano - Porto Alegre",
+      "descricao": "Pela manhã o Zé vai levar a Cleonice, Elenise e Vana à Porto Alegre pra fazer o Visto Americano.",
+      "data_inicio": "2026-07-30 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-07-02 12:42:29"
     },
     {
       "uuid": "b790ad1a-1648-42fa-a352-9e4c047ebb18",
