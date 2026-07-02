@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T13:22:48Z",
-  "total": 83,
+  "updated_at": "2026-07-02T13:25:14Z",
+  "total": 84,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -166,6 +166,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-28 20:17:39"
+    },
+    {
+      "uuid": "9d96664d-0483-4055-8831-4c002421e708",
+      "titulo": "Reunião TESTE",
+      "descricao": "SE VOCÊ VIU ESSE TESTE ME AVISE!",
+      "data_inicio": "2026-07-06 10:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-07-02 10:25:12"
     },
     {
       "uuid": "33ffda0d-d494-43fb-9f2e-f2097be02eec",
