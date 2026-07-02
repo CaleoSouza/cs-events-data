@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:15:19Z",
+  "updated_at": "2026-07-02T18:15:23Z",
   "total": 85,
   "eventos": [
     {
@@ -807,12 +807,12 @@
     },
     {
       "uuid": "6bad92f4-770a-4c3a-9bcd-85e8dad3d191",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-10 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:56:57"
     },
