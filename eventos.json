@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:50:15Z",
+  "updated_at": "2026-07-02T11:50:21Z",
   "total": 83,
   "eventos": [
     {
@@ -356,12 +356,12 @@
     },
     {
       "uuid": "f39a43b5-10b3-402f-b211-d7079905651f",
-      "titulo": "Outros Zé",
+      "titulo": "Particular Zé",
       "descricao": "Consulta Giuseppe as 13:20h",
       "data_inicio": "2026-09-15 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 21:28:09"
     },
