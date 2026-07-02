@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T13:49:30Z",
-  "total": 84,
+  "updated_at": "2026-07-02T13:50:14Z",
+  "total": 85,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -144,6 +144,17 @@
       "categoria": "agendamento",
       "status": "ativo",
       "criado_em": "2026-07-02 10:49:28"
+    },
+    {
+      "uuid": "33e8cbc0-5286-47d7-a418-f78e18cdb93b",
+      "titulo": "Reunião TESTE REUNIÃO",
+      "descricao": "TESTE",
+      "data_inicio": "2026-07-02 10:58",
+      "data_fim": "",
+      "local": "",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-07-02 10:50:12"
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
