@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T15:08:22Z",
-  "total": 84,
+  "updated_at": "2026-07-02T15:08:27Z",
+  "total": 83,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -133,17 +133,6 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-05-28 20:15:56"
-    },
-    {
-      "uuid": "253e35c7-3a91-4463-8947-22fdbf503eaa",
-      "titulo": "Reunião iuyyuyu",
-      "descricao": "iuuyiiyu",
-      "data_inicio": "2026-07-03 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "reunião",
-      "status": "ativo",
-      "criado_em": "2026-07-02 11:57:34"
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
