@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T11:50:10Z",
+  "updated_at": "2026-07-02T11:50:15Z",
   "total": 83,
   "eventos": [
     {
@@ -323,12 +323,12 @@
     },
     {
       "uuid": "aad137f8-fde8-4ac9-a2b0-39fafa119cdc",
-      "titulo": "Outros Viagem São Paulo Zé",
+      "titulo": "Particular Viagem São Paulo Zé",
       "descricao": "",
       "data_inicio": "2026-08-30 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 19:01:52"
     },
