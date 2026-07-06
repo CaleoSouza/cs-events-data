@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T12:19:06Z",
-  "total": 86,
+  "updated_at": "2026-07-06T13:11:50Z",
+  "total": 87,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -397,6 +397,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 21:28:09"
+    },
+    {
+      "uuid": "2d3674de-d2f2-4285-a78a-1267c0384bf0",
+      "titulo": "Casamento Jean e Carla",
+      "descricao": "Casamento Jean Possamai Della e Carja Just\nCobertura Prata",
+      "data_inicio": "2026-09-19 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-07-06 10:11:48"
     },
     {
       "uuid": "3686de8d-a810-4c61-aa2c-6e53f00e443d",
