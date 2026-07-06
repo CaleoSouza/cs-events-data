@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T22:12:01Z",
+  "updated_at": "2026-07-06T22:14:08Z",
   "total": 87,
   "eventos": [
     {
@@ -675,12 +675,12 @@
     },
     {
       "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
-      "titulo": "Pré Wedding Luiza e David",
+      "titulo": "15 Anos Wedding Luiza e David",
       "descricao": "Sessão Diamante",
       "data_inicio": "2027-03-04 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "pré wedding",
+      "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:19"
     },
