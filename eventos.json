@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T11:05:14Z",
-  "total": 85,
+  "updated_at": "2026-07-06T12:19:06Z",
+  "total": 86,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -177,6 +177,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-28 20:17:39"
+    },
+    {
+      "uuid": "3bd1fc17-6922-4669-aeda-f11d8d708fbe",
+      "titulo": "Business Gleisse Vito",
+      "descricao": "19:00h - Estúdio, Fundo Branco.",
+      "data_inicio": "2026-07-08 19:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "business",
+      "status": "ativo",
+      "criado_em": "2026-07-06 09:19:04"
     },
     {
       "uuid": "33ffda0d-d494-43fb-9f2e-f2097be02eec",
