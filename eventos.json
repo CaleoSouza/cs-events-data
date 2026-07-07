@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T17:40:16Z",
-  "total": 90,
+  "updated_at": "2026-07-07T20:24:13Z",
+  "total": 91,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -221,6 +221,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-30 10:47:41"
+    },
+    {
+      "uuid": "9134192a-399d-4657-b99e-00164aa334b2",
+      "titulo": "Mini Sessão Diretoras da EEBJM",
+      "descricao": "14:00h - Foto das Diretoras da EEBJM com impressão na hora + Porta Retrato 15x21cm",
+      "data_inicio": "2026-07-22 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-07-07 17:24:12"
     },
     {
       "uuid": "eb622f7a-3869-4fa1-86d0-652924d1d608",
