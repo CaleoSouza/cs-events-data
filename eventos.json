@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T11:49:21Z",
-  "total": 88,
+  "updated_at": "2026-07-07T11:50:34Z",
+  "total": 89,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -903,6 +903,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-06-19 19:02:27"
+    },
+    {
+      "uuid": "fe24b21d-e89b-49a7-8341-88904e03cc36",
+      "titulo": "15 Anos Elise Borges Velho",
+      "descricao": "Filha da Marília Tramontin\nCobertura Fotográfica com Making Of.\nA Festa será no Espaço Luz (Salão do Tocha), Bairro Gávea, Jacinto Machado / SC.",
+      "data_inicio": "2027-07-24 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-07-07 08:50:31"
     },
     {
       "uuid": "50101a07-0f17-4f48-8930-42807ac887c3",
