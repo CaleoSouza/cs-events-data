@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T23:53:36Z",
-  "total": 87,
+  "updated_at": "2026-07-07T11:49:21Z",
+  "total": 88,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -694,6 +694,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:42"
+    },
+    {
+      "uuid": "52547389-ad2d-45e2-aeb6-9f2b980a5ebe",
+      "titulo": "Mini Sessão Elise Borges Velho",
+      "descricao": "Mini Sessão 15 Anos Elise (Filha da Marília Tramontin).\nPoderá ser no estúdio ou Chapalls.",
+      "data_inicio": "2027-03-16 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-07-07 08:49:19"
     },
     {
       "uuid": "b5a92d5f-df2e-45bd-a0b9-d602c57d182e",
