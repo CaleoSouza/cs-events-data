@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T14:34:14Z",
-  "total": 92,
+  "updated_at": "2026-07-08T14:35:11Z",
+  "total": 93,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -397,6 +397,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 19:01:52"
+    },
+    {
+      "uuid": "06828901-4e1a-4961-b910-a23193771992",
+      "titulo": "Gestante Letícia e Kelvin Bon",
+      "descricao": "Sessão Fotográfica Gestante, Opção Ouro.\nLocal ainda à definir.",
+      "data_inicio": "2026-09-03 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "gestante",
+      "status": "ativo",
+      "criado_em": "2026-07-08 11:35:09"
     },
     {
       "uuid": "44b844bd-1a00-4a23-a8ec-056bdef2a5af",
