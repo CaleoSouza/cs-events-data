@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T20:24:13Z",
-  "total": 91,
+  "updated_at": "2026-07-08T14:34:14Z",
+  "total": 92,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -309,6 +309,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-07-02 12:42:29"
+    },
+    {
+      "uuid": "7287c8c0-f9d1-41d2-957c-e80e6dfbf056",
+      "titulo": "Chá de Bebê Letícia e Kelvin Bon",
+      "descricao": "15:30h - Livramento, Turvo / SC",
+      "data_inicio": "2026-08-02 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "chá de bebê",
+      "status": "ativo",
+      "criado_em": "2026-07-08 11:34:12"
     },
     {
       "uuid": "b790ad1a-1648-42fa-a352-9e4c047ebb18",
