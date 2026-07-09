@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T21:39:41Z",
-  "total": 93,
+  "updated_at": "2026-07-09T17:50:33Z",
+  "total": 94,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -320,6 +320,17 @@
       "categoria": "chá de bebê",
       "status": "ativo",
       "criado_em": "2026-07-08 11:34:12"
+    },
+    {
+      "uuid": "278dc49a-6ff1-42e3-954a-3a25edff4d55",
+      "titulo": "Particular Caleo",
+      "descricao": "CHURRASCO DA TURMA",
+      "data_inicio": "2026-08-08 19:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-07-09 14:50:31"
     },
     {
       "uuid": "b790ad1a-1648-42fa-a352-9e4c047ebb18",
