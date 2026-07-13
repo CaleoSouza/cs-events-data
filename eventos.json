@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T11:38:19Z",
-  "total": 94,
+  "updated_at": "2026-07-13T20:07:57Z",
+  "total": 95,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1002,6 +1002,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-06-09 10:56:01"
+    },
+    {
+      "uuid": "34b04146-8c3c-48e0-adf1-2bd3a31007f4",
+      "titulo": "Casamento Saionara e Andrei",
+      "descricao": "Making of: Emili Rosso em Turvo (encima do X do gordo)  \nLocal da cerimônia : Paróquia Nossa Senhora das Graças de Ermo \nHorário da Cerimônia : 17:00h \nRecepção : Centro de Eventos JP - Morro do Soares - Ermo",
+      "data_inicio": "2027-09-18 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-07-13 17:07:56"
     },
     {
       "uuid": "ae24c68a-6f58-4a14-86f1-0bb483d5805d",
