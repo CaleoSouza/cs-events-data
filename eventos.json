@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T14:33:31Z",
-  "total": 96,
+  "updated_at": "2026-07-15T15:07:21Z",
+  "total": 97,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -793,6 +793,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-07-01 09:57:41"
+    },
+    {
+      "uuid": "4225fcb6-23f7-4253-871e-29b331b60dcf",
+      "titulo": "Pré Wedding Saionara e Andrei",
+      "descricao": "Sessão Fotográfica Prata",
+      "data_inicio": "2027-04-22 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-07-15 12:07:19"
     },
     {
       "uuid": "c1ebbbb8-5a71-42df-92b8-3a832aa7c132",
