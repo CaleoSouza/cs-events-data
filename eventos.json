@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T14:12:38Z",
-  "total": 95,
+  "updated_at": "2026-07-15T14:30:38Z",
+  "total": 96,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -210,6 +210,17 @@
       "categoria": "cobertura de evento",
       "status": "ativo",
       "criado_em": "2026-05-28 20:21:09"
+    },
+    {
+      "uuid": "02187933-ac7e-40af-ad8b-cd8059a6a974",
+      "titulo": "15 Anos Caléo",
+      "descricao": "CONSULTA SOMBRIO AS 16:45h",
+      "data_inicio": "2026-07-20 15:10",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-07-15 11:30:36"
     },
     {
       "uuid": "34dc379d-5507-417e-aefb-5082b51c4780",
