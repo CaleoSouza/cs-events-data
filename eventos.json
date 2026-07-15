@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T14:30:38Z",
+  "updated_at": "2026-07-15T14:30:46Z",
   "total": 96,
   "eventos": [
     {
@@ -213,12 +213,12 @@
     },
     {
       "uuid": "02187933-ac7e-40af-ad8b-cd8059a6a974",
-      "titulo": "15 Anos Caléo",
+      "titulo": "Particular Anos Caléo",
       "descricao": "CONSULTA SOMBRIO AS 16:45h",
       "data_inicio": "2026-07-20 15:10",
       "data_fim": "",
       "local": "",
-      "categoria": "15 anos",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-07-15 11:30:36"
     },
