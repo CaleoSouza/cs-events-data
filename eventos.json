@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T00:48:24Z",
-  "total": 85,
+  "updated_at": "2026-07-17T00:52:02Z",
+  "total": 98,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -147,12 +147,12 @@
     },
     {
       "uuid": "e6f99596-3d68-4633-9560-dda13002d40b",
-      "titulo": "Agendamento Jaine e Isael",
+      "titulo": "Atendimento Jaine e Isael",
       "descricao": "ESCOLHER FOTOS AS 19H",
       "data_inicio": "2026-07-03 17:00",
       "data_fim": "",
       "local": "",
-      "categoria": "agendamento",
+      "categoria": "atendimento",
       "status": "ativo",
       "criado_em": "2026-06-30 10:52:30"
     },
@@ -179,6 +179,17 @@
       "criado_em": "2026-05-28 20:17:39"
     },
     {
+      "uuid": "3bd1fc17-6922-4669-aeda-f11d8d708fbe",
+      "titulo": "Business Gleisse Vito",
+      "descricao": "19:00h - Estúdio, Fundo Branco.",
+      "data_inicio": "2026-07-08 19:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "business",
+      "status": "ativo",
+      "criado_em": "2026-07-06 09:19:04"
+    },
+    {
       "uuid": "33ffda0d-d494-43fb-9f2e-f2097be02eec",
       "titulo": "Casamento Milenia e Henrique",
       "descricao": "Cobertura Fotográfica do Casamento de Henrique e Milenia\n- Opção Selecionada: Diamante\n- Data: 11 de Julho de 2026 (Sábado)\n- Horário do início do Making Of do Noivo: _________________à definir\n- Local do Making Of do Noivo: __________________________à definir\n- Horário do início do Making Of da Noiva: _________________à definir\n- Local do Making Of da Noiva: ___________________________à definir•\t1 Quadro Canvas na Moldura Premium 90x120cm\n- Horário do início da Cerimônia: 16:00h\n- Local da Cerimônia: Igreja Matriz Santa Terezinha de Jacinto Machado / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Salão Paroquial de Jacinto Machado / SC",
@@ -201,6 +212,28 @@
       "criado_em": "2026-05-28 20:21:09"
     },
     {
+      "uuid": "9aca5d33-bfc9-494b-b702-ffd14b283b1b",
+      "titulo": "15 Anos TESTE",
+      "descricao": "FDSFFSDFDFFGD",
+      "data_inicio": "2026-07-17 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-07-16 21:45:26"
+    },
+    {
+      "uuid": "02187933-ac7e-40af-ad8b-cd8059a6a974",
+      "titulo": "Particular Consulta Caléo",
+      "descricao": "CONSULTA ARARANGUA AS 16:45h",
+      "data_inicio": "2026-07-20 15:10",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-07-15 11:30:36"
+    },
+    {
       "uuid": "34dc379d-5507-417e-aefb-5082b51c4780",
       "titulo": "Particular Evento Debiasi",
       "descricao": "Local\nCentro de Vivencia - Museu ao Ar Livre\nOrleans, SC\nData\n21 de julho de 2026\nTerça-feira\n7:30 - 18:30",
@@ -210,6 +243,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-30 10:47:41"
+    },
+    {
+      "uuid": "9134192a-399d-4657-b99e-00164aa334b2",
+      "titulo": "Mini Sessão Diretoras da EEBJM",
+      "descricao": "14:00h - Foto das Diretoras da EEBJM com impressão na hora + Porta Retrato 15x21cm",
+      "data_inicio": "2026-07-22 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-07-07 17:24:12"
     },
     {
       "uuid": "eb622f7a-3869-4fa1-86d0-652924d1d608",
@@ -232,6 +276,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-05-28 20:26:38"
+    },
+    {
+      "uuid": "064f00fa-c6d3-42ff-9a54-deefcaf0fb4d",
+      "titulo": "Batizado Matriz",
+      "descricao": "Batizado às 10h",
+      "data_inicio": "2026-07-26 09:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "batizado",
+      "status": "ativo",
+      "criado_em": "2026-07-07 14:40:13"
     },
     {
       "uuid": "cb9e2136-3e1b-4954-9cb2-55f680485aeb",
@@ -257,12 +312,12 @@
     },
     {
       "uuid": "b15d2ac3-ab9d-4954-8dee-6027e3978ccf",
-      "titulo": "15 Anos 15 Anos Maria Clara (Kristyan)",
+      "titulo": "Sessão 15 Anos Maria Clara (Kristyan)",
       "descricao": "Sessão Fotográfica 15 Anos de Maria Clara Paulino Recco\n- Opção Selecionada: Diamante\n- Data: 29 de Julho de 2026 (Quarta Feira)\n- Local: Urubici / SC",
       "data_inicio": "2026-07-29 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "15 anos",
+      "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-28 20:31:14"
     },
@@ -276,6 +331,28 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-07-02 12:42:29"
+    },
+    {
+      "uuid": "7287c8c0-f9d1-41d2-957c-e80e6dfbf056",
+      "titulo": "Chá de Bebê Letícia e Kelvin Bon",
+      "descricao": "15:30h - Livramento, Turvo / SC",
+      "data_inicio": "2026-08-02 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "chá de bebê",
+      "status": "ativo",
+      "criado_em": "2026-07-08 11:34:12"
+    },
+    {
+      "uuid": "278dc49a-6ff1-42e3-954a-3a25edff4d55",
+      "titulo": "Particular Caleo - Churrasco",
+      "descricao": "CHURRASCO DA TURMA",
+      "data_inicio": "2026-08-08 19:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-07-09 14:50:31"
     },
     {
       "uuid": "b790ad1a-1648-42fa-a352-9e4c047ebb18",
@@ -355,6 +432,17 @@
       "criado_em": "2026-06-19 19:01:52"
     },
     {
+      "uuid": "06828901-4e1a-4961-b910-a23193771992",
+      "titulo": "Gestante Letícia e Kelvin Bon",
+      "descricao": "Sessão Fotográfica Gestante, Opção Ouro.\nLocal ainda à definir.",
+      "data_inicio": "2026-09-03 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "gestante",
+      "status": "ativo",
+      "criado_em": "2026-07-08 11:35:09"
+    },
+    {
       "uuid": "44b844bd-1a00-4a23-a8ec-056bdef2a5af",
       "titulo": "Casamento Luana e Vitor",
       "descricao": "Cobertura Fotográfica do Casamento de Luana e Vitor\n- Opção Selecionada: Diamante\n- Data: 05 de Setembro de 2026 (Sábado)\n- Horário do início do Making Of do Noivo: 13:00h\n- Local do Making Of do Noivo: Daiane Lopes Make Up, Vista Alegre – Ermo / SC\n- Horário do início do Making Of da Noiva: 12:00h\n- Local do Making Of da Noiva: Estúdio Thais Machado, Centro – Ermo / SC\n- Horário do início da Cerimônia: 15:00h\n- Local da Cerimônia: Igreja de Vista Alegre em Ermo / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Saloon 449, Garuva, Sombrio / SC",
@@ -388,6 +476,17 @@
       "criado_em": "2026-05-29 21:28:09"
     },
     {
+      "uuid": "2d3674de-d2f2-4285-a78a-1267c0384bf0",
+      "titulo": "Casamento Jean e Carla",
+      "descricao": "Opção Selecionada: Prata\nData: 19 de Setembro de 2026 (Sábado)\n- Horário do início da Cerimônia: ____à definir.\n- Local da Cerimônia: ______________à definir.\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: ________________à definir.",
+      "data_inicio": "2026-09-19 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-07-06 10:11:48"
+    },
+    {
       "uuid": "3686de8d-a810-4c61-aa2c-6e53f00e443d",
       "titulo": "Bodas Noeli e Zeca",
       "descricao": "Cobertura Fotográfica das Bodas de Ouro de Maria Noeli e José (Neli e Zeca)\n- Data: 20 de Setembro de 2026 (Domingo)\n- Horário do início da Cerimônia: 11:00h\n- Local da Celebração: Igreja São Pedro, Bairro São Pedro em Sombrio / SC\n- Horário da Recepção: Logo após a Celebração\n- Local da Recepção: Celeiro Eventos, localizado no Bairro Januária em Sombrio / SC",
@@ -400,12 +499,12 @@
     },
     {
       "uuid": "0919c91a-ff81-477d-9a36-4685370fde0f",
-      "titulo": "15 Anos 15 Anos Pyetra",
+      "titulo": "Sessão 15 Anos Pyetra",
       "descricao": "Mini Sessão 15 Anos e Família\nIrmã da Stefani Fregulia.\nSerá no Jardim da SFA e Chapahalls.",
       "data_inicio": "2026-09-22 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "15 anos",
+      "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 21:52:39"
     },
@@ -653,12 +752,12 @@
     },
     {
       "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
-      "titulo": "Pré Wedding Luiza e David",
+      "titulo": "15 Anos Wedding Luiza e David",
       "descricao": "Sessão Diamante",
       "data_inicio": "2027-03-04 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "pré wedding",
+      "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:19"
     },
@@ -672,6 +771,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:42"
+    },
+    {
+      "uuid": "52547389-ad2d-45e2-aeb6-9f2b980a5ebe",
+      "titulo": "Mini Sessão Elise Borges Velho",
+      "descricao": "Mini Sessão 15 Anos Elise (Filha da Marília Tramontin).\nPoderá ser no estúdio ou Chapalls.",
+      "data_inicio": "2027-03-16 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-07-07 08:49:19"
     },
     {
       "uuid": "b5a92d5f-df2e-45bd-a0b9-d602c57d182e",
@@ -694,6 +804,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-07-01 09:57:41"
+    },
+    {
+      "uuid": "4225fcb6-23f7-4253-871e-29b331b60dcf",
+      "titulo": "Pré Wedding Saionara e Andrei",
+      "descricao": "Sessão Fotográfica Prata",
+      "data_inicio": "2027-04-22 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-07-15 12:07:19"
     },
     {
       "uuid": "c1ebbbb8-5a71-42df-92b8-3a832aa7c132",
@@ -720,7 +841,7 @@
     {
       "uuid": "29c023f7-6bc3-409f-bf99-e81b9c2f5b80",
       "titulo": "Casamento David e Luiza Inácio",
-      "descricao": "",
+      "descricao": "- Opção Selecionada: Diamante\n- Data: 12 de Junho de 2027 (Sábado)\n- Horário do início do Making Of do Noivo: 12:30h\n- Local do Making Of do Noivo: Na Casa do Noivo em Ermo / SC\n- Horário do início do Making Of da Noiva: 11:30h\n- Local do Making Of da Noiva: Na Casa da Noiva em Ermo / SC\n- Horário do início da Cerimônia: 14:00h\n- Local da Cerimônia: _________________________________________à definir.\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: JP Centro de Eventos – Ermo / SC",
       "data_inicio": "2027-05-01 00:00",
       "data_fim": "",
       "local": "",
@@ -796,67 +917,67 @@
     },
     {
       "uuid": "29ddd81a-0f66-4239-aa42-1b126f098caf",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-09 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:56:46"
     },
     {
       "uuid": "6bad92f4-770a-4c3a-9bcd-85e8dad3d191",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-10 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:56:57"
     },
     {
       "uuid": "014bc303-b803-4ec1-9e28-8756f97c8a6b",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-11 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:57:06"
     },
     {
       "uuid": "c7662c9b-080d-44ca-add7-bfa7e3e8869c",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-12 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:57:16"
     },
     {
       "uuid": "72125bcd-0f14-42b7-a14e-d939f8918d29",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-13 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:57:29"
     },
     {
       "uuid": "d4842d01-1d6e-4578-8a26-7a28b7878227",
-      "titulo": "Outros Viagem Europa Zé",
+      "titulo": "Particular Viagem Europa Zé",
       "descricao": "",
       "data_inicio": "2027-05-14 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "outros",
+      "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:57:38"
     },
@@ -870,6 +991,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-06-19 19:02:27"
+    },
+    {
+      "uuid": "fe24b21d-e89b-49a7-8341-88904e03cc36",
+      "titulo": "15 Anos Elise Borges Velho",
+      "descricao": "Filha da Marília Tramontin\nCobertura Fotográfica com Making Of.\nA Festa será no Espaço Luz (Salão do Tocha), Bairro Gávea, Jacinto Machado / SC.",
+      "data_inicio": "2027-07-24 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-07-07 08:50:31"
     },
     {
       "uuid": "50101a07-0f17-4f48-8930-42807ac887c3",
@@ -903,6 +1035,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-06-09 10:56:01"
+    },
+    {
+      "uuid": "34b04146-8c3c-48e0-adf1-2bd3a31007f4",
+      "titulo": "Casamento Saionara e Andrei",
+      "descricao": "Making of: Emili Rosso em Turvo (encima do X do gordo)  \nLocal da cerimônia : Paróquia Nossa Senhora das Graças de Ermo \nHorário da Cerimônia : 17:00h \nRecepção : Centro de Eventos JP - Morro do Soares - Ermo",
+      "data_inicio": "2027-09-18 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-07-13 17:07:56"
     },
     {
       "uuid": "ae24c68a-6f58-4a14-86f1-0bb483d5805d",
