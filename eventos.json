@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T14:34:48Z",
+  "updated_at": "2026-07-24T14:37:46Z",
   "total": 98,
   "eventos": [
     {
@@ -278,17 +278,6 @@
       "criado_em": "2026-07-07 14:40:13"
     },
     {
-      "uuid": "8bf10031-91e1-40dd-acea-c42b0dd321e6",
-      "titulo": "Pré Wedding Luana e Vitor",
-      "descricao": "Sessão Fotográfica Pré Wedding de Luana e Vitor\n- Opção Selecionada: Prata\n- Data: 28 de Julho de 2026 (Terça Feira)\n- Local: ___________à definir.",
-      "data_inicio": "2026-07-28 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "pré wedding",
-      "status": "ativo",
-      "criado_em": "2026-05-28 20:29:51"
-    },
-    {
       "uuid": "59f02eed-4333-40e5-b3a7-6a5264e775d1",
       "titulo": "Atendimento Yasmin",
       "descricao": "09:00h - Yasmin vem escolher as fotos do 15 Anos para fazer o álbum.",
@@ -331,6 +320,17 @@
       "categoria": "chá de bebê",
       "status": "ativo",
       "criado_em": "2026-07-08 11:34:12"
+    },
+    {
+      "uuid": "8bf10031-91e1-40dd-acea-c42b0dd321e6",
+      "titulo": "Pré Wedding Luana e Vitor",
+      "descricao": "Sessão Fotográfica Pré Wedding de Luana e Vitor\n- Opção Selecionada: Prata\n- Data: 04 de Agosto de 2026 (Terça Feira)\n- Programação:\n* 13:50h - Saída de Jacinto Machado\n* 14:30h às 15:20h - Passio Gastro Pub - Sombrio / SC\n* 15:30h às 16:15h - Estrada de Pinos - Sombrio / SC\n* 16:30h às 17:30h - Roça de Fumo - Sombrio / SC",
+      "data_inicio": "2026-08-04 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:29:51"
     },
     {
       "uuid": "278dc49a-6ff1-42e3-954a-3a25edff4d55",
