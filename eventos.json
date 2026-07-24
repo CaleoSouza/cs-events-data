@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T14:04:27Z",
-  "total": 98,
+  "updated_at": "2026-07-24T14:23:50Z",
+  "total": 99,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -991,6 +991,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-06-19 19:02:27"
+    },
+    {
+      "uuid": "68fbd871-8f1a-4074-a895-f47ea4844da0",
+      "titulo": "Infantil 1 Aninho Bento",
+      "descricao": "Filho da Hérica e Edmilson",
+      "data_inicio": "2027-07-10 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-07-24 11:23:48"
     },
     {
       "uuid": "fe24b21d-e89b-49a7-8341-88904e03cc36",
