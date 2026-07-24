@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T14:34:04Z",
-  "total": 99,
+  "updated_at": "2026-07-24T14:34:48Z",
+  "total": 98,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -276,17 +276,6 @@
       "categoria": "batizado",
       "status": "ativo",
       "criado_em": "2026-07-07 14:40:13"
-    },
-    {
-      "uuid": "cb9e2136-3e1b-4954-9cb2-55f680485aeb",
-      "titulo": "Particular Zé",
-      "descricao": "Consulta Giuseppe 14h",
-      "data_inicio": "2026-07-27 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "particular",
-      "status": "ativo",
-      "criado_em": "2026-05-28 20:28:31"
     },
     {
       "uuid": "8bf10031-91e1-40dd-acea-c42b0dd321e6",
