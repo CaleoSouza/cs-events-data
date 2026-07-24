@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T14:51:12Z",
-  "total": 97,
+  "updated_at": "2026-07-24T14:04:27Z",
+  "total": 98,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -298,6 +298,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-05-28 20:29:51"
+    },
+    {
+      "uuid": "59f02eed-4333-40e5-b3a7-6a5264e775d1",
+      "titulo": "Atendimento Yasmin",
+      "descricao": "09:00h - Yasmin vem escolher as fotos do 15 Anos para fazer o álbum.",
+      "data_inicio": "2026-07-28 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "atendimento",
+      "status": "ativo",
+      "criado_em": "2026-07-24 11:04:25"
     },
     {
       "uuid": "b15d2ac3-ab9d-4954-8dee-6027e3978ccf",
