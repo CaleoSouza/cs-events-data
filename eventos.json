@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T14:23:50Z",
+  "updated_at": "2026-07-24T14:32:40Z",
   "total": 99,
   "eventos": [
     {
@@ -311,17 +311,6 @@
       "criado_em": "2026-07-24 11:04:25"
     },
     {
-      "uuid": "b15d2ac3-ab9d-4954-8dee-6027e3978ccf",
-      "titulo": "Sessão 15 Anos Maria Clara (Kristyan)",
-      "descricao": "Sessão Fotográfica 15 Anos de Maria Clara Paulino Recco\n- Opção Selecionada: Diamante\n- Data: 29 de Julho de 2026 (Quarta Feira)\n- Local: Urubici / SC",
-      "data_inicio": "2026-07-29 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "sessão 15 anos",
-      "status": "ativo",
-      "criado_em": "2026-05-28 20:31:14"
-    },
-    {
       "uuid": "aa981f4c-ba47-49ff-9ed6-ca33eb222969",
       "titulo": "Particular Visto Americano - Porto Alegre",
       "descricao": "Pela manhã o Zé vai levar a Cleonice, Elenise e Vana à Porto Alegre pra fazer o Visto Americano.",
@@ -331,6 +320,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-07-02 12:42:29"
+    },
+    {
+      "uuid": "b15d2ac3-ab9d-4954-8dee-6027e3978ccf",
+      "titulo": "15 Anos 15 Anos Maria Clara (Kristyan)",
+      "descricao": "Sessão Fotográfica 15 Anos de Maria Clara Paulino Recco\n- Opção Selecionada: Diamante\n- Data: 29 de Julho de 2026 (Quarta Feira)\n- Local: Urubici / SC",
+      "data_inicio": "2026-07-31 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-05-28 20:31:14"
     },
     {
       "uuid": "7287c8c0-f9d1-41d2-957c-e80e6dfbf056",
