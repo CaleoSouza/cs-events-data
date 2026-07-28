@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:37:05Z",
+  "updated_at": "2026-07-28T17:50:41Z",
   "total": 98,
   "eventos": [
     {
@@ -335,8 +335,8 @@
     {
       "uuid": "278dc49a-6ff1-42e3-954a-3a25edff4d55",
       "titulo": "Particular Caleo - Churrasco",
-      "descricao": "CHURRASCO DA TURMA",
-      "data_inicio": "2026-08-08 19:00",
+      "descricao": "CHURRASCO DA TURMA - MEIO DIA",
+      "data_inicio": "2026-08-16 11:00",
       "data_fim": "",
       "local": "",
       "categoria": "particular",
