@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T19:34:24Z",
-  "total": 99,
+  "updated_at": "2026-07-28T12:37:05Z",
+  "total": 98,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -276,17 +276,6 @@
       "categoria": "batizado",
       "status": "ativo",
       "criado_em": "2026-07-07 14:40:13"
-    },
-    {
-      "uuid": "59f02eed-4333-40e5-b3a7-6a5264e775d1",
-      "titulo": "Atendimento Yasmin",
-      "descricao": "09:00h - Yasmin vem escolher as fotos do 15 Anos para fazer o álbum.",
-      "data_inicio": "2026-07-28 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "atendimento",
-      "status": "ativo",
-      "criado_em": "2026-07-24 11:04:25"
     },
     {
       "uuid": "aa981f4c-ba47-49ff-9ed6-ca33eb222969",
