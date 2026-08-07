@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:09:11Z",
+  "updated_at": "2026-08-07T13:09:31Z",
   "total": 101,
   "eventos": [
     {
@@ -367,12 +367,12 @@
     },
     {
       "uuid": "e6457e60-2384-4586-b0eb-859b0625e70b",
-      "titulo": "Pré Wedding TESTE 2 JOÃO",
+      "titulo": "Casamento TESTE 2 JOÃO",
       "descricao": "KJGHKGHJHGJKHJKGKHJ",
       "data_inicio": "2026-08-20 08:00",
       "data_fim": "",
       "local": "",
-      "categoria": "pré wedding",
+      "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-08-07 10:06:00"
     },
