@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T12:33:52Z",
-  "total": 99,
+  "updated_at": "2026-08-10T12:41:59Z",
+  "total": 100,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -353,6 +353,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:37:22"
+    },
+    {
+      "uuid": "d0556eb7-7f3d-4f2f-8534-1a35e281796e",
+      "titulo": "Atendimento teste",
+      "descricao": "dsfdsfdsfsdf",
+      "data_inicio": "2026-08-20 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "atendimento",
+      "status": "ativo",
+      "criado_em": "2026-08-10 09:41:57"
     },
     {
       "uuid": "91f283a6-765e-4ce5-b717-eb63d3721a69",
