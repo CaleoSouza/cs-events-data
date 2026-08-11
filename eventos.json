@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T13:27:48Z",
-  "total": 99,
+  "updated_at": "2026-08-11T21:33:34Z",
+  "total": 100,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -573,6 +573,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-05-29 21:59:35"
+    },
+    {
+      "uuid": "16dfcbc5-074a-4049-8413-7d0d9f63b8e0",
+      "titulo": "Infantil 1 Ano Cecília",
+      "descricao": "Aniversário de 1 Ano Cecília.\nFilha da Janaína de Melo e Jean Casagrande.\nEspaço Luz, Bairro Gávea - JM.\n14:00h estar lá.\n15:00h inicia o aniversário.",
+      "data_inicio": "2026-10-18 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-08-11 18:33:31"
     },
     {
       "uuid": "6d9ae8b8-63f8-47d8-a41d-8e42977c8a9a",
