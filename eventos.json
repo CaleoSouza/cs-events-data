@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T11:30:20Z",
-  "total": 100,
+  "updated_at": "2026-08-17T21:53:37Z",
+  "total": 101,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -364,6 +364,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:38:12"
+    },
+    {
+      "uuid": "05a34b61-854d-4de1-8888-83611e5fa223",
+      "titulo": "Particular Aniversário Julia",
+      "descricao": "Local Pimenta Pastéis - estar as 20h",
+      "data_inicio": "2026-08-23 14:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-08-17 18:53:35"
     },
     {
       "uuid": "a041ca70-4cd7-4ebf-afb7-46d01997eb86",
