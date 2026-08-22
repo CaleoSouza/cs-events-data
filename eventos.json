@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:46:12Z",
+  "updated_at": "2026-08-22T20:29:52Z",
   "total": 101,
   "eventos": [
     {
@@ -322,17 +322,6 @@
       "criado_em": "2026-05-28 20:29:51"
     },
     {
-      "uuid": "5cf663f6-79c7-4cfb-8b3a-f9e835ee8658",
-      "titulo": "Sessão 15 Anos Maria Clara",
-      "descricao": "2ª Parte da Sessão de 15 Anos da Maria Clara.\nFilha do Kristyan e Talita\nNova Veneza e Criciúma\nSaída de Jacinto às 14h",
-      "data_inicio": "2026-08-15 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "sessão 15 anos",
-      "status": "ativo",
-      "criado_em": "2026-08-03 10:22:59"
-    },
-    {
       "uuid": "278dc49a-6ff1-42e3-954a-3a25edff4d55",
       "titulo": "Particular Caleo - Churrasco",
       "descricao": "CHURRASCO DA TURMA - MEIO DIA",
@@ -474,6 +463,17 @@
       "categoria": "formatura",
       "status": "ativo",
       "criado_em": "2026-05-29 21:27:05"
+    },
+    {
+      "uuid": "5cf663f6-79c7-4cfb-8b3a-f9e835ee8658",
+      "titulo": "15 Anos 15 Anos Maria Clara",
+      "descricao": "2ª Parte da Sessão de 15 Anos da Maria Clara.\nFilha do Kristyan e Talita\nNova Veneza e Criciúma\nSaída de Jacinto às 14h",
+      "data_inicio": "2026-09-11 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-08-03 10:22:59"
     },
     {
       "uuid": "f39a43b5-10b3-402f-b211-d7079905651f",
