@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:29:52Z",
+  "updated_at": "2026-08-24T14:52:47Z",
   "total": 101,
   "eventos": [
     {
@@ -466,12 +466,12 @@
     },
     {
       "uuid": "5cf663f6-79c7-4cfb-8b3a-f9e835ee8658",
-      "titulo": "15 Anos 15 Anos Maria Clara",
+      "titulo": "Sessão 15 Anos Maria Clara",
       "descricao": "2ª Parte da Sessão de 15 Anos da Maria Clara.\nFilha do Kristyan e Talita\nNova Veneza e Criciúma\nSaída de Jacinto às 14h",
       "data_inicio": "2026-09-11 08:00",
       "data_fim": "",
       "local": "",
-      "categoria": "15 anos",
+      "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-08-03 10:22:59"
     },
