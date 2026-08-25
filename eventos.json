@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T13:27:13Z",
-  "total": 104,
+  "updated_at": "2026-08-25T14:37:25Z",
+  "total": 105,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -595,6 +595,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-05-29 21:59:35"
+    },
+    {
+      "uuid": "b8f0271c-6b16-4733-bfd6-5ad3be8e214f",
+      "titulo": "Casamento Francilaini e Danrlei",
+      "descricao": "Casamento Francilaini e Danrlei\n17:00h - Igreja Matriz de Jacinto Machado\nFotografar apenas a Cerimônia.\nSerão apenas 5 Convidados.\nNão terá recepção.\n(Francilaini é a irmã da Nataliana).",
+      "data_inicio": "2026-10-17 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-08-25 11:37:23"
     },
     {
       "uuid": "16dfcbc5-074a-4049-8413-7d0d9f63b8e0",
