@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T13:19:47Z",
-  "total": 103,
+  "updated_at": "2026-08-25T13:27:13Z",
+  "total": 104,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -826,6 +826,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-07-07 08:49:19"
+    },
+    {
+      "uuid": "b5adecea-63b2-437d-a1e2-214f45ae167e",
+      "titulo": "Pré Wedding Joice e Vinícius",
+      "descricao": "Love Session Joice Borman e Vinicius Zanatta\nOpção Prata\n\nPS: Não é Pré Wedding",
+      "data_inicio": "2027-03-30 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-08-25 10:27:11"
     },
     {
       "uuid": "b5a92d5f-df2e-45bd-a0b9-d602c57d182e",
