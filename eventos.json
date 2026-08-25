@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T14:58:39Z",
-  "total": 101,
+  "updated_at": "2026-08-25T12:49:57Z",
+  "total": 102,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -496,6 +496,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-07-06 10:11:48"
+    },
+    {
+      "uuid": "e2a19506-1c7d-4aa2-8b37-a812ce976246",
+      "titulo": "Business Manoela e Patrick",
+      "descricao": "10:00h - Business Session Manoela Fabri e Patrick\n* Estúdio com fundo Branco e Preto",
+      "data_inicio": "2026-09-19 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "business",
+      "status": "ativo",
+      "criado_em": "2026-08-25 09:49:55"
     },
     {
       "uuid": "3686de8d-a810-4c61-aa2c-6e53f00e443d",
