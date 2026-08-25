@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T12:49:57Z",
-  "total": 102,
+  "updated_at": "2026-08-25T13:13:50Z",
+  "total": 103,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -617,6 +617,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 22:00:13"
+    },
+    {
+      "uuid": "c4b7dfd7-fc4b-40e5-8c27-dd60d2ec546a",
+      "titulo": "Infantil 1 Aninho Henrique e Vicente",
+      "descricao": "1 Aninho Henrique e Vicente\nFilhos da Vanessa e Giovani\nEspaço Luz, Bairro Gávea, Jacinto Machado / SC.",
+      "data_inicio": "2026-10-24 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "infantil",
+      "status": "ativo",
+      "criado_em": "2026-08-25 10:13:48"
     },
     {
       "uuid": "98dcdd66-af00-495d-ac6a-a5f14538cc92",
