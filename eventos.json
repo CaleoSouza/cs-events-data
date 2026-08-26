@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T21:33:35Z",
-  "total": 105,
+  "updated_at": "2026-08-26T21:36:09Z",
+  "total": 106,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -408,6 +408,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 19:01:44"
+    },
+    {
+      "uuid": "f9dd7a18-454b-4643-9fe8-6970fc264be6",
+      "titulo": "Particular Montagem Roupeiro Caléo",
+      "descricao": "Montar Roupeiro com Fabricio as 15h",
+      "data_inicio": "2026-08-29 11:25",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-08-26 18:36:06"
     },
     {
       "uuid": "aad137f8-fde8-4ac9-a2b0-39fafa119cdc",
