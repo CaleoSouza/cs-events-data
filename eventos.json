@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T20:40:34Z",
-  "total": 106,
+  "updated_at": "2026-09-01T20:44:00Z",
+  "total": 107,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -430,6 +430,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 19:01:52"
+    },
+    {
+      "uuid": "ac3a564f-b4e5-4ed3-bd22-8c74c4b490e8",
+      "titulo": "Bodas Maria TESTE",
+      "descricao": "TESTE",
+      "data_inicio": "2026-09-02 10:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "bodas",
+      "status": "ativo",
+      "criado_em": "2026-09-01 17:43:58"
     },
     {
       "uuid": "06828901-4e1a-4961-b910-a23193771992",
