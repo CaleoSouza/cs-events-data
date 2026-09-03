@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T21:08:26Z",
-  "total": 108,
+  "updated_at": "2026-09-03T21:15:55Z",
+  "total": 107,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -474,17 +474,6 @@
       "categoria": "formatura",
       "status": "ativo",
       "criado_em": "2026-05-29 21:27:05"
-    },
-    {
-      "uuid": "25fe6974-5c3c-496e-be54-c63649a6f81d",
-      "titulo": "Chá de Bebê TESTE 2",
-      "descricao": "YUYTRTYTREYREY",
-      "data_inicio": "2026-09-07 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "chá de bebê",
-      "status": "ativo",
-      "criado_em": "2026-09-03 18:08:22"
     },
     {
       "uuid": "5cf663f6-79c7-4cfb-8b3a-f9e835ee8658",
