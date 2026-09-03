@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T17:46:23Z",
-  "total": 106,
+  "updated_at": "2026-09-03T21:02:07Z",
+  "total": 107,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -485,6 +485,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-08-03 10:22:59"
+    },
+    {
+      "uuid": "0308732b-d79b-45bb-ae16-bed80dd18021",
+      "titulo": "Atendimento TESTEEE",
+      "descricao": "EEEEEEE",
+      "data_inicio": "2026-09-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "atendimento",
+      "status": "ativo",
+      "criado_em": "2026-09-03 18:02:04"
     },
     {
       "uuid": "f39a43b5-10b3-402f-b211-d7079905651f",
