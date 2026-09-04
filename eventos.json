@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T18:36:18Z",
-  "total": 108,
+  "updated_at": "2026-09-04T18:37:02Z",
+  "total": 109,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -573,6 +573,17 @@
       "categoria": "chá de bebê",
       "status": "ativo",
       "criado_em": "2026-05-29 21:54:51"
+    },
+    {
+      "uuid": "ff980b29-f9d9-428f-a3ac-68b75a94f825",
+      "titulo": "Gestante Nataliana e José Antonio",
+      "descricao": "14h - Será na Casa deles em Pinheirinho do Meio - Jacinto Machado / SC.",
+      "data_inicio": "2026-09-29 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "gestante",
+      "status": "ativo",
+      "criado_em": "2026-09-04 15:37:00"
     },
     {
       "uuid": "732d39b6-cd84-496f-bd4c-e2088dbce35f",
