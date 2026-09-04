@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T12:02:46Z",
-  "total": 106,
+  "updated_at": "2026-09-04T18:35:20Z",
+  "total": 107,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1090,6 +1090,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-07-07 08:50:31"
+    },
+    {
+      "uuid": "bd79e1cd-b852-4135-b5e1-83a58054a341",
+      "titulo": "Casamento Thaynara e Jonathan (Galo)",
+      "descricao": "17:00h - Saloon 449",
+      "data_inicio": "2027-07-31 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-09-04 15:35:17"
     },
     {
       "uuid": "50101a07-0f17-4f48-8930-42807ac887c3",
