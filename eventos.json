@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T18:35:20Z",
-  "total": 107,
+  "updated_at": "2026-09-04T18:36:18Z",
+  "total": 108,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -485,6 +485,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-08-03 10:22:59"
+    },
+    {
+      "uuid": "0e49fc8c-d696-4aba-a740-c5427156dae9",
+      "titulo": "Gestante Nataliana e José Antonio",
+      "descricao": "10:00h - Sessão em estúdio (Fundo Branco e Preto)",
+      "data_inicio": "2026-09-10 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "gestante",
+      "status": "ativo",
+      "criado_em": "2026-09-04 15:36:16"
     },
     {
       "uuid": "f39a43b5-10b3-402f-b211-d7079905651f",
