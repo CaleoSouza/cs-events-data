@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T12:39:58Z",
-  "total": 110,
+  "updated_at": "2026-09-05T13:23:17Z",
+  "total": 109,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -485,17 +485,6 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-08-03 10:22:59"
-    },
-    {
-      "uuid": "77302b9e-876c-457b-8d0d-073beadc07d9",
-      "titulo": "Particular TESTE",
-      "descricao": "TESTE",
-      "data_inicio": "2026-09-08 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "particular",
-      "status": "ativo",
-      "criado_em": "2026-09-05 09:39:56"
     },
     {
       "uuid": "0e49fc8c-d696-4aba-a740-c5427156dae9",
