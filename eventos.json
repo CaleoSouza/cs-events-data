@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T13:41:59Z",
-  "total": 109,
+  "updated_at": "2026-09-09T13:20:02Z",
+  "total": 110,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -683,6 +683,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:42:42"
+    },
+    {
+      "uuid": "1854eb32-10b4-41d0-8637-0c79ed9d2a76",
+      "titulo": "Mini Sessão Camila da Rosa",
+      "descricao": "Familia as 16h (R$380,00)\nEntrada R$50,00",
+      "data_inicio": "2026-11-12 10:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-09-09 10:19:59"
     },
     {
       "uuid": "ac103ff3-942c-4dcf-bb9d-d351b938f0b7",
