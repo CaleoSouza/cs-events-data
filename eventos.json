@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T13:20:02Z",
-  "total": 110,
+  "updated_at": "2026-09-10T20:49:21Z",
+  "total": 111,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -496,6 +496,17 @@
       "categoria": "gestante",
       "status": "ativo",
       "criado_em": "2026-09-04 15:36:16"
+    },
+    {
+      "uuid": "09d6c993-51e7-4829-b2b3-9975ef1bb0f5",
+      "titulo": "Business Ana Paula Schaukoski Luiz",
+      "descricao": "18:30h - Business Session Ana Paula\nFundo Branco e Preto",
+      "data_inicio": "2026-09-14 18:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "business",
+      "status": "ativo",
+      "criado_em": "2026-09-10 17:49:18"
     },
     {
       "uuid": "f39a43b5-10b3-402f-b211-d7079905651f",
