@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T23:38:06Z",
-  "total": 111,
+  "updated_at": "2026-09-11T17:00:47Z",
+  "total": 112,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -518,6 +518,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 21:28:09"
+    },
+    {
+      "uuid": "0844a3c1-5077-47db-9ed4-8529e08fccb4",
+      "titulo": "Particular Caléo",
+      "descricao": "Consulta Araranguá as 15:50",
+      "data_inicio": "2026-09-17 14:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-11 14:00:45"
     },
     {
       "uuid": "2d3674de-d2f2-4285-a78a-1267c0384bf0",
