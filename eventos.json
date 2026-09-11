@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T17:59:30Z",
-  "total": 112,
+  "updated_at": "2026-09-11T20:32:49Z",
+  "total": 113,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -518,6 +518,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 21:28:09"
+    },
+    {
+      "uuid": "aabb3d90-49d1-4af6-921a-a1aaccb7d567",
+      "titulo": "Atendimento Michele e Vado",
+      "descricao": "ESCOLHER AS FOTOS PARA O ALBUM \ndepois das 18h",
+      "data_inicio": "2026-09-15 17:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "atendimento",
+      "status": "ativo",
+      "criado_em": "2026-09-11 17:32:47"
     },
     {
       "uuid": "0844a3c1-5077-47db-9ed4-8529e08fccb4",
