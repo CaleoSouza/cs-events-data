@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T12:25:36Z",
-  "total": 114,
+  "updated_at": "2026-09-14T19:53:49Z",
+  "total": 115,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -804,6 +804,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:12:13"
+    },
+    {
+      "uuid": "14896b87-86d5-4f33-ab06-0f62553970dc",
+      "titulo": "Casamento Cheila e Cristiano",
+      "descricao": "Casamento Cheila e Cristiano\n- Opção Selecionada: Diamante\n- Data: 12 de Dezembro de 2026 (Sábado)\n- Horáriodo Making Of do Noivo: ______________________________à definir.\n- Local do Making Of do Noivo: ________________________________________à definir.\n- Horário do Making Of da Noiva: 17:30h\n- Local do Making Of da Noiva: VW Beauty Stúdio em Araranguá / SC\n- Horário da Cerimônia: 19:30h\n- Local da Cerimônia: Santuário Nossa Senhora Mãe dos Homens - Araranguá / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Restaurante Tree House - Araranguá / SC",
+      "data_inicio": "2026-12-12 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-09-14 16:53:46"
     },
     {
       "uuid": "23f10804-feae-4f7e-ab71-b58ece49962f",
