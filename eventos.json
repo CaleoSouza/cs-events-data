@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T11:08:54Z",
-  "total": 113,
+  "updated_at": "2026-09-14T12:22:30Z",
+  "total": 114,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -573,6 +573,17 @@
       "categoria": "bodas",
       "status": "ativo",
       "criado_em": "2026-05-29 21:50:59"
+    },
+    {
+      "uuid": "551c18b3-1298-40dc-bb5b-4448e6e49fa4",
+      "titulo": "Batizado Domingo",
+      "descricao": "Matriz às 10h.",
+      "data_inicio": "2026-09-20 08:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "batizado",
+      "status": "ativo",
+      "criado_em": "2026-09-14 09:22:28"
     },
     {
       "uuid": "0919c91a-ff81-477d-9a36-4685370fde0f",
