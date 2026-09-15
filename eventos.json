@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T14:21:49Z",
-  "total": 116,
+  "updated_at": "2026-09-15T21:59:04Z",
+  "total": 117,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1002,6 +1002,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-06-19 18:54:16"
+    },
+    {
+      "uuid": "9156bfb4-395a-4c0c-b6c8-e2e1d31b1657",
+      "titulo": "Pré Wedding Thaynara e Jonathan",
+      "descricao": "Sessão Prata",
+      "data_inicio": "2027-04-27 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-09-15 18:59:01"
     },
     {
       "uuid": "e6d342b9-d302-44c8-b565-b0fa660042dd",
