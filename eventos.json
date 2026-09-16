@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T21:59:04Z",
-  "total": 117,
+  "updated_at": "2026-09-16T12:58:55Z",
+  "total": 118,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -606,6 +606,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 21:52:39"
+    },
+    {
+      "uuid": "2208fa74-dc4f-40de-bf96-8024b3353dda",
+      "titulo": "Atendimento Ketlyn",
+      "descricao": "Arrumar Album as 18h",
+      "data_inicio": "2026-09-22 17:45",
+      "data_fim": "",
+      "local": "",
+      "categoria": "atendimento",
+      "status": "ativo",
+      "criado_em": "2026-09-16 09:58:53"
     },
     {
       "uuid": "69a5bf6e-ab4f-42ba-bf45-dba744a19922",
