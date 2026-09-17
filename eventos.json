@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:36:38Z",
-  "total": 136,
+  "updated_at": "2026-09-17T17:36:44Z",
+  "total": 137,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1189,6 +1189,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 14:36:36"
+    },
+    {
+      "uuid": "2fee6b43-96e0-4853-b3b9-6ddaa17e9331",
+      "titulo": "Particular Viagem Europa Zé Souza",
+      "descricao": "",
+      "data_inicio": "2027-04-11 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 14:36:42"
     },
     {
       "uuid": "71e2dc80-be6b-4aac-8215-f0618c72478f",
