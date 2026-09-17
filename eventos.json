@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T18:00:50Z",
-  "total": 158,
+  "updated_at": "2026-09-17T18:04:13Z",
+  "total": 159,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -551,6 +551,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-11 14:00:45"
+    },
+    {
+      "uuid": "2bd24887-9aab-44c6-ae56-f1f7f4c3f660",
+      "titulo": "Reunião Geovana Contabilidade",
+      "descricao": "",
+      "data_inicio": "2026-09-18 10:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-09-17 15:04:11"
     },
     {
       "uuid": "2d3674de-d2f2-4285-a78a-1267c0384bf0",
