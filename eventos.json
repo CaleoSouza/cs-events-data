@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:19:54Z",
-  "total": 127,
+  "updated_at": "2026-09-17T17:20:02Z",
+  "total": 128,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -925,6 +925,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 14:19:51"
+    },
+    {
+      "uuid": "9969c03e-84a8-41ad-9481-bc30eac2a657",
+      "titulo": "Particular Férias Coletivas",
+      "descricao": "",
+      "data_inicio": "2026-12-30 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 14:20:00"
     },
     {
       "uuid": "6ee1422d-2021-4da9-82ee-4cd0ff04e41d",
