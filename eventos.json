@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T18:21:39Z",
-  "total": 176,
+  "updated_at": "2026-09-17T18:21:46Z",
+  "total": 177,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -947,6 +947,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:21:36"
+    },
+    {
+      "uuid": "36389758-361c-4c6e-b90c-4b2724efb350",
+      "titulo": "Particular Viagem China - Zé Souza",
+      "descricao": "",
+      "data_inicio": "2026-10-27 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 15:21:44"
     },
     {
       "uuid": "1854eb32-10b4-41d0-8637-0c79ed9d2a76",
