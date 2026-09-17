@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T18:08:01Z",
-  "total": 160,
+  "updated_at": "2026-09-17T18:08:36Z",
+  "total": 161,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -694,6 +694,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:07:59"
+    },
+    {
+      "uuid": "62ebb98d-272b-476f-bcc7-0de51abea4c1",
+      "titulo": "Pré Wedding Cheila e Cristiano",
+      "descricao": "Sessão Prata\nChapahalls - Jacinto Machado / SC",
+      "data_inicio": "2026-10-08 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-09-17 15:08:33"
     },
     {
       "uuid": "eb3c8b9a-2470-4717-96e6-11b0aea0206a",
