@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:18:44Z",
-  "total": 121,
+  "updated_at": "2026-09-17T17:18:56Z",
+  "total": 122,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -859,6 +859,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
+    },
+    {
+      "uuid": "5e67cf98-1249-4766-9ae9-11e0592d676b",
+      "titulo": "Particular Férias Coletivas",
+      "descricao": "",
+      "data_inicio": "2026-12-24 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 14:18:53"
     },
     {
       "uuid": "6ee1422d-2021-4da9-82ee-4cd0ff04e41d",
