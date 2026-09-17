@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T18:37:18Z",
-  "total": 192,
+  "updated_at": "2026-09-17T18:37:25Z",
+  "total": 193,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1376,6 +1376,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:37:13"
+    },
+    {
+      "uuid": "b669746d-e72b-4038-8125-807bf8e0b411",
+      "titulo": "Particular Férias da Júlia",
+      "descricao": "",
+      "data_inicio": "2027-02-05 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 15:37:23"
     },
     {
       "uuid": "b5a3fe76-d6de-440e-9c5d-7d3f4eae2ee2",
