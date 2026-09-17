@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T18:34:56Z",
-  "total": 188,
+  "updated_at": "2026-09-17T18:36:56Z",
+  "total": 189,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1332,6 +1332,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:49:05"
+    },
+    {
+      "uuid": "2ccfbce5-9cd9-45bf-9ee0-3710cc1c989c",
+      "titulo": "Particular Férias da Júlia",
+      "descricao": "",
+      "data_inicio": "2027-02-01 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 15:36:54"
     },
     {
       "uuid": "b5a3fe76-d6de-440e-9c5d-7d3f4eae2ee2",
