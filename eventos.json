@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:54:58Z",
-  "total": 157,
+  "updated_at": "2026-09-17T18:00:50Z",
+  "total": 158,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1442,6 +1442,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:57:38"
+    },
+    {
+      "uuid": "313fb960-ba0f-40bf-8dc7-050cfdd38adc",
+      "titulo": "Casamento Claudete e Vittor",
+      "descricao": "",
+      "data_inicio": "2027-05-15 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-09-17 15:00:48"
     },
     {
       "uuid": "d5b65bd6-de13-48ab-9bf4-12aecc5d9eb3",
