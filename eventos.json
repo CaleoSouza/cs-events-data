@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:46:51Z",
-  "total": 146,
+  "updated_at": "2026-09-17T17:46:57Z",
+  "total": 147,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1530,6 +1530,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 14:46:49"
+    },
+    {
+      "uuid": "9a96b0b3-9403-4af1-8926-385b16d7e47c",
+      "titulo": "Particular Viagem Chile - Zé e Caleo",
+      "descricao": "",
+      "data_inicio": "2027-08-13 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-17 14:46:55"
     },
     {
       "uuid": "50101a07-0f17-4f48-8930-42807ac887c3",
