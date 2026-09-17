@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:10:00Z",
+  "updated_at": "2026-09-17T14:54:18Z",
   "total": 118,
   "eventos": [
     {
@@ -861,6 +861,17 @@
       "criado_em": "2026-05-29 22:14:44"
     },
     {
+      "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
+      "titulo": "15 Anos Wedding Luiza e David",
+      "descricao": "Sessão Diamante",
+      "data_inicio": "2027-01-21 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:53:19"
+    },
+    {
       "uuid": "e2eb9f6d-84c7-4a89-87c5-86267464a6b6",
       "titulo": "Pré Wedding Karina e Bob",
       "descricao": "Sessão Prata",
@@ -925,17 +936,6 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-06-19 18:52:53"
-    },
-    {
-      "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
-      "titulo": "15 Anos Wedding Luiza e David",
-      "descricao": "Sessão Diamante",
-      "data_inicio": "2027-03-04 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-06-19 18:53:19"
     },
     {
       "uuid": "29c023f7-6bc3-409f-bf99-e81b9c2f5b80",
