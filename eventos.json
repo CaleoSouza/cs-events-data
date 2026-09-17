@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T13:00:36Z",
+  "updated_at": "2026-09-17T14:10:00Z",
   "total": 118,
   "eventos": [
     {
@@ -938,6 +938,17 @@
       "criado_em": "2026-06-19 18:53:19"
     },
     {
+      "uuid": "29c023f7-6bc3-409f-bf99-e81b9c2f5b80",
+      "titulo": "Casamento David e Luiza Inácio",
+      "descricao": "- Opção Selecionada: Diamante\n- Data: 12 de Junho de 2027 (Sábado)\n- Horário do início do Making Of do Noivo: 12:30h\n- Local do Making Of do Noivo: Na Casa do Noivo em Ermo / SC\n- Horário do início do Making Of da Noiva: 11:30h\n- Local do Making Of da Noiva: Na Casa da Noiva em Ermo / SC\n- Horário do início da Cerimônia: 14:00h\n- Local da Cerimônia: _________________________________________à definir.\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: JP Centro de Eventos – Ermo / SC",
+      "data_inicio": "2027-03-06 00:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-19 18:55:00"
+    },
+    {
       "uuid": "45128a6e-eb1c-4074-93be-1b1e87bcb510",
       "titulo": "Pré Wedding Stefani e Luan",
       "descricao": "",
@@ -1035,17 +1046,6 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:54:33"
-    },
-    {
-      "uuid": "29c023f7-6bc3-409f-bf99-e81b9c2f5b80",
-      "titulo": "Casamento David e Luiza Inácio",
-      "descricao": "- Opção Selecionada: Diamante\n- Data: 12 de Junho de 2027 (Sábado)\n- Horário do início do Making Of do Noivo: 12:30h\n- Local do Making Of do Noivo: Na Casa do Noivo em Ermo / SC\n- Horário do início do Making Of da Noiva: 11:30h\n- Local do Making Of da Noiva: Na Casa da Noiva em Ermo / SC\n- Horário do início da Cerimônia: 14:00h\n- Local da Cerimônia: _________________________________________à definir.\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: JP Centro de Eventos – Ermo / SC",
-      "data_inicio": "2027-05-01 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "casamento",
-      "status": "ativo",
-      "criado_em": "2026-06-19 18:55:00"
     },
     {
       "uuid": "5cbc2afa-a5b5-48a6-9e80-2967722767dc",
