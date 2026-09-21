@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T17:39:35Z",
-  "total": 198,
+  "updated_at": "2026-09-21T21:31:24Z",
+  "total": 199,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -628,6 +628,17 @@
       "categoria": "atendimento",
       "status": "ativo",
       "criado_em": "2026-09-16 09:58:53"
+    },
+    {
+      "uuid": "1ae11c86-4fff-4ef5-804f-b993e25a40b5",
+      "titulo": "Mini Sessão Carla e Jean",
+      "descricao": "Na Casa Deles, no Bairro Gávea em JM.\nÀs 16:00h",
+      "data_inicio": "2026-09-24 16:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-09-21 18:31:21"
     },
     {
       "uuid": "69a5bf6e-ab4f-42ba-bf45-dba744a19922",
