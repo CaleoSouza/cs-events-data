@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T13:15:00Z",
-  "total": 202,
+  "updated_at": "2026-09-22T13:15:18Z",
+  "total": 203,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -705,6 +705,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-22 10:14:58"
+    },
+    {
+      "uuid": "7a539098-6fdc-4baf-9b12-f747c3aeb235",
+      "titulo": "Particular Viagem São Paulo - Zé (Retorna ao Meio Dia)",
+      "descricao": "",
+      "data_inicio": "2026-10-02 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-09-22 10:15:16"
     },
     {
       "uuid": "732d39b6-cd84-496f-bd4c-e2088dbce35f",
