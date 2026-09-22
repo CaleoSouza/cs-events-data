@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T12:36:54Z",
-  "total": 199,
+  "updated_at": "2026-09-22T13:01:27Z",
+  "total": 200,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -661,6 +661,17 @@
       "categoria": "chá de bebê",
       "status": "ativo",
       "criado_em": "2026-05-29 21:54:51"
+    },
+    {
+      "uuid": "c0981f0b-5188-4b09-9b2a-90af30179cc4",
+      "titulo": "Bodas Enor e Delaíde",
+      "descricao": "Bodas de Ouro Enor e Delaíde\nSaloon 449 - Garuva, Sombrio / SC.\n09:30h estar lá;\n11:00h inicia.\n\nNão tem contrato, foi fechado no fio do bigode!\nConferir depois com o Zé.",
+      "data_inicio": "2026-09-27 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "bodas",
+      "status": "ativo",
+      "criado_em": "2026-09-22 10:01:24"
     },
     {
       "uuid": "ff980b29-f9d9-428f-a3ac-68b75a94f825",
