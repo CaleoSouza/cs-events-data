@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T14:05:30Z",
-  "total": 206,
+  "updated_at": "2026-10-05T14:27:06Z",
+  "total": 207,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1035,6 +1035,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:21:49"
+    },
+    {
+      "uuid": "7f42630d-8f7c-47ec-8922-2955372ebffd",
+      "titulo": "Reunião Juliana e Kleiton",
+      "descricao": "Reunião de Casamento às 19:00h",
+      "data_inicio": "2026-11-05 19:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-10-05 11:27:04"
     },
     {
       "uuid": "0064dcbc-f817-4b5a-87ab-b7bd3a6c84aa",
