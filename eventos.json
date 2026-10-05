@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T21:01:06Z",
-  "total": 205,
+  "updated_at": "2026-10-05T13:53:02Z",
+  "total": 206,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1827,6 +1827,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-06-19 18:54:33"
+    },
+    {
+      "uuid": "927d6985-949f-4fb9-9161-9bf4798746cd",
+      "titulo": "Cobertura de Evento Rafaela e Cícero",
+      "descricao": "Jantar de Pré Casamento\nHorário: 19:00h\nLocal: OX Smoker - Turvo / SC",
+      "data_inicio": "2027-05-01 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "cobertura de evento",
+      "status": "ativo",
+      "criado_em": "2026-10-05 10:53:00"
     },
     {
       "uuid": "5cbc2afa-a5b5-48a6-9e80-2967722767dc",
