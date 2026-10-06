@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T12:58:14Z",
-  "total": 207,
+  "updated_at": "2026-10-06T13:11:41Z",
+  "total": 208,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1079,6 +1079,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:28:17"
+    },
+    {
+      "uuid": "5cd70ae9-fbff-4645-b771-1e97fea9ec47",
+      "titulo": "Reunião Ana Ronconi",
+      "descricao": "Reunião pra alinhar os detalhes da Sessão de 15 Anos da Ana Ronconi.\nÀs 18:00h",
+      "data_inicio": "2026-11-11 18:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-10-06 10:11:39"
     },
     {
       "uuid": "e4912f84-90ea-4e8f-8ab3-126810e79e34",
