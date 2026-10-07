@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T13:11:41Z",
-  "total": 208,
+  "updated_at": "2026-10-07T13:18:50Z",
+  "total": 209,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -771,6 +771,17 @@
       "categoria": "pré wedding",
       "status": "ativo",
       "criado_em": "2026-09-17 15:08:33"
+    },
+    {
+      "uuid": "e5d4fe0e-09c6-4669-b17b-0e5edb641e8e",
+      "titulo": "Cobertura de Evento ACIJAM - FOTOS",
+      "descricao": "Formatura Geração Empreendedora - Auditorio Cooperja estar as 18:30h inicia as 19h\n\n(Katia)",
+      "data_inicio": "2026-10-08 17:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "cobertura de evento",
+      "status": "ativo",
+      "criado_em": "2026-10-07 10:18:48"
     },
     {
       "uuid": "eb3c8b9a-2470-4717-96e6-11b0aea0206a",
