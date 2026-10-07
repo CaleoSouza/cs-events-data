@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T13:18:50Z",
-  "total": 209,
+  "updated_at": "2026-10-07T13:56:30Z",
+  "total": 210,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1057,6 +1057,17 @@
       "categoria": "reunião",
       "status": "ativo",
       "criado_em": "2026-10-05 11:27:04"
+    },
+    {
+      "uuid": "6f9cf6dd-2548-4a28-844d-1b05ed0dc7f6",
+      "titulo": "Mini Sessão Raquel Casagrande",
+      "descricao": "Mini Sessão Família às 16:30h",
+      "data_inicio": "2026-11-07 16:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-10-07 10:56:27"
     },
     {
       "uuid": "0064dcbc-f817-4b5a-87ab-b7bd3a6c84aa",
