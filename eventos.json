@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T12:47:04Z",
-  "total": 211,
+  "updated_at": "2026-10-13T21:07:34Z",
+  "total": 212,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1299,6 +1299,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 22:12:57"
+    },
+    {
+      "uuid": "25cc3cf9-d5af-429d-a9eb-bca66d33108c",
+      "titulo": "Feminina Fabiana Fontana",
+      "descricao": "Mini Sessão Feminina\nás 16:30h",
+      "data_inicio": "2026-12-15 14:22",
+      "data_fim": "",
+      "local": "",
+      "categoria": "feminina",
+      "status": "ativo",
+      "criado_em": "2026-10-13 18:07:32"
     },
     {
       "uuid": "02e7e587-2796-42d0-a820-0560d5a25db4",
