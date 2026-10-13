@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T11:03:26Z",
-  "total": 210,
+  "updated_at": "2026-10-13T12:47:04Z",
+  "total": 211,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1046,6 +1046,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:21:49"
+    },
+    {
+      "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
+      "titulo": "Mini Sessão Angelica Possamai",
+      "descricao": "Mini Sessão Familia 380,00\n16:30h",
+      "data_inicio": "2026-11-03 14:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-10-13 09:47:02"
     },
     {
       "uuid": "7f42630d-8f7c-47ec-8922-2955372ebffd",
