@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T21:07:34Z",
-  "total": 212,
+  "updated_at": "2026-10-14T23:43:50Z",
+  "total": 213,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1673,6 +1673,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-07-07 08:49:19"
+    },
+    {
+      "uuid": "662ad27d-15d8-4c12-99a0-f58a937e91cf",
+      "titulo": "Casamento Andresa e Tiago",
+      "descricao": "Casamento Andresa e Tiago\nSítio Girabas",
+      "data_inicio": "2027-03-27 10:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-10-14 20:43:48"
     },
     {
       "uuid": "b5adecea-63b2-437d-a1e2-214f45ae167e",
