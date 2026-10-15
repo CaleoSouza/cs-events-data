@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:07:13Z",
+  "updated_at": "2026-10-15T19:22:52Z",
   "total": 213,
   "eventos": [
     {
@@ -1698,12 +1698,12 @@
     },
     {
       "uuid": "b5a92d5f-df2e-45bd-a0b9-d602c57d182e",
-      "titulo": "Particular Julia",
+      "titulo": "Formatura Julia",
       "descricao": "Formatura Julia Santana",
       "data_inicio": "2027-04-03 00:00",
       "data_fim": "",
       "local": "",
-      "categoria": "particular",
+      "categoria": "formatura",
       "status": "ativo",
       "criado_em": "2026-07-01 09:35:10"
     },
