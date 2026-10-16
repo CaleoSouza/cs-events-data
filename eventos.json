@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T22:48:46Z",
-  "total": 216,
+  "updated_at": "2026-10-16T22:49:35Z",
+  "total": 215,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -760,17 +760,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:07:59"
-    },
-    {
-      "uuid": "f2d3c19e-cfed-4a55-9ce1-c928e8e24f3b",
-      "titulo": "Férias CALEOO",
-      "descricao": "FERIASSSS",
-      "data_inicio": "2026-10-07 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-16 19:33:55"
     },
     {
       "uuid": "62ebb98d-272b-476f-bcc7-0de51abea4c1",
