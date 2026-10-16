@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T22:34:15Z",
-  "total": 214,
+  "updated_at": "2026-10-16T22:38:18Z",
+  "total": 215,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1057,6 +1057,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:21:49"
+    },
+    {
+      "uuid": "277f9ecb-a2cf-4461-ba27-c92ae8c9f735",
+      "titulo": "Business ausdujhadsujdsadas",
+      "descricao": "TESTE",
+      "data_inicio": "2026-10-29 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "business",
+      "status": "ativo",
+      "criado_em": "2026-10-16 19:38:15"
     },
     {
       "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
