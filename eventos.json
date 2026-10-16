@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T22:43:45Z",
-  "total": 215,
+  "updated_at": "2026-10-16T22:47:41Z",
+  "total": 216,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -793,6 +793,17 @@
       "categoria": "cobertura de evento",
       "status": "ativo",
       "criado_em": "2026-10-07 10:18:48"
+    },
+    {
+      "uuid": "63953fa4-23f8-4c85-8fba-8c457ee0d110",
+      "titulo": "Férias Loja",
+      "descricao": "fsdfsdf49fsd8f",
+      "data_inicio": "2026-10-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-16 19:47:39"
     },
     {
       "uuid": "eb3c8b9a-2470-4717-96e6-11b0aea0206a",
