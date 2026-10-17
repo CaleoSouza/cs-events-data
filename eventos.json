@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T22:49:35Z",
-  "total": 215,
+  "updated_at": "2026-10-17T14:19:45Z",
+  "total": 219,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1301,6 +1301,17 @@
       "criado_em": "2026-05-29 22:12:13"
     },
     {
+      "uuid": "198569ca-96a2-473a-a948-0fe28942e589",
+      "titulo": "Férias TESTE REPETIÇÃO",
+      "descricao": "TESTEEEEE",
+      "data_inicio": "2026-12-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-17 11:17:41"
+    },
+    {
       "uuid": "14896b87-86d5-4f33-ab06-0f62553970dc",
       "titulo": "Casamento Cheila e Cristiano",
       "descricao": "Casamento Cheila e Cristiano\n- Opção Selecionada: Diamante\n- Data: 12 de Dezembro de 2026 (Sábado)\n- Horário do Making Of do Noivo: ______________________________à definir.\n- Local do Making Of do Noivo: ________________________________________à definir.\n- Horário do Making Of da Noiva: 17:30h\n- Local do Making Of da Noiva: VW Beauty Stúdio em Araranguá / SC\n- Horário da Cerimônia: 19:30h\n- Local da Cerimônia: Santuário Nossa Senhora Mãe dos Homens - Araranguá / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Restaurante Tree House - Araranguá / SC",
@@ -1466,6 +1477,17 @@
       "criado_em": "2026-09-17 14:18:42"
     },
     {
+      "uuid": "97e422d6-d3eb-4be2-a568-3107521662e8",
+      "titulo": "Férias TESTE REPETIÇÃO",
+      "descricao": "TESTEEEEE",
+      "data_inicio": "2027-01-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-17 11:17:41"
+    },
+    {
       "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
       "titulo": "15 Anos Wedding Luiza e David",
       "descricao": "Sessão Diamante",
@@ -1598,6 +1620,17 @@
       "criado_em": "2026-09-17 15:37:56"
     },
     {
+      "uuid": "dceeeaf3-bfa4-41ba-b914-f7c072d36ada",
+      "titulo": "Férias TESTE REPETIÇÃO",
+      "descricao": "TESTEEEEE",
+      "data_inicio": "2027-02-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-17 11:17:41"
+    },
+    {
       "uuid": "f478eb65-1eec-40a1-953e-514beba61d88",
       "titulo": "Particular Férias da Júlia",
       "descricao": "",
@@ -1651,6 +1684,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-06-19 18:52:21"
+    },
+    {
+      "uuid": "2c9f5a67-f956-4df3-a9f6-4b1e6c72f0ec",
+      "titulo": "Batizado TESTE SEQUENCIA",
+      "descricao": "TESTETEEE",
+      "data_inicio": "2027-02-22 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "batizado",
+      "status": "ativo",
+      "criado_em": "2026-10-17 11:19:43"
     },
     {
       "uuid": "b6183d79-f470-4017-83f9-84674a814332",
