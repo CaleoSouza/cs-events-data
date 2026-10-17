@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T14:26:26Z",
-  "total": 218,
+  "updated_at": "2026-10-17T14:26:40Z",
+  "total": 217,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1288,17 +1288,6 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:12:13"
-    },
-    {
-      "uuid": "198569ca-96a2-473a-a948-0fe28942e589",
-      "titulo": "Férias TESTE REPETIÇÃO",
-      "descricao": "TESTEEEEE",
-      "data_inicio": "2026-12-09 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-17 11:17:41"
     },
     {
       "uuid": "14896b87-86d5-4f33-ab06-0f62553970dc",
