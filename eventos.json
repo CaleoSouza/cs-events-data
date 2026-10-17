@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T14:26:56Z",
-  "total": 215,
+  "updated_at": "2026-10-17T14:27:12Z",
+  "total": 214,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1640,17 +1640,6 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-06-19 18:52:21"
-    },
-    {
-      "uuid": "2c9f5a67-f956-4df3-a9f6-4b1e6c72f0ec",
-      "titulo": "Batizado TESTE SEQUENCIA",
-      "descricao": "TESTETEEE",
-      "data_inicio": "2027-02-22 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "batizado",
-      "status": "ativo",
-      "criado_em": "2026-10-17 11:19:43"
     },
     {
       "uuid": "b6183d79-f470-4017-83f9-84674a814332",
