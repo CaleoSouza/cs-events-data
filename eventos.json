@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T14:26:47Z",
-  "total": 216,
+  "updated_at": "2026-10-17T14:26:56Z",
+  "total": 215,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1585,17 +1585,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 15:37:56"
-    },
-    {
-      "uuid": "dceeeaf3-bfa4-41ba-b914-f7c072d36ada",
-      "titulo": "Férias TESTE REPETIÇÃO",
-      "descricao": "TESTEEEEE",
-      "data_inicio": "2027-02-09 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-17 11:17:41"
     },
     {
       "uuid": "f478eb65-1eec-40a1-953e-514beba61d88",
