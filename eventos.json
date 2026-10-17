@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:48:48Z",
+  "updated_at": "2026-10-17T14:48:58Z",
   "total": 215,
   "eventos": [
     {
@@ -1148,12 +1148,12 @@
     },
     {
       "uuid": "e4912f84-90ea-4e8f-8ab3-126810e79e34",
-      "titulo": "Particular Férias da Júlia",
+      "titulo": "Férias Férias da Júlia",
       "descricao": "",
       "data_inicio": "2026-11-12 08:00",
       "data_fim": "",
       "local": "",
-      "categoria": "particular",
+      "categoria": "férias",
       "status": "ativo",
       "criado_em": "2026-09-17 15:28:26"
     },
