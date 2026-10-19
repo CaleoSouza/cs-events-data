@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T14:59:03Z",
-  "total": 205,
+  "updated_at": "2026-10-19T15:00:18Z",
+  "total": 217,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1354,6 +1354,138 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
+    },
+    {
+      "uuid": "d5e7fffa-0242-4a65-87e4-356d1912542f",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-23 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "e0ac9861-0e49-4623-81cd-799e0a7c3da1",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-24 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "a6f93845-3c0f-4310-8a4f-b5d0b4812aa9",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-25 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "54a0b355-6dcb-44c9-8c9d-0c4cca39c005",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-26 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "726da7f9-db97-4a20-99eb-fd31b7507266",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-27 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "012e3996-dbaa-4d5e-bf53-752ebe2d517b",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-28 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "710180ca-0eda-46f7-aa24-afdd18deec2d",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-29 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "5308aea5-f2b3-4daf-956f-315da5af4878",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-30 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "fbeeeb75-5259-4e6c-947b-6f0306152e43",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2026-12-31 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "1f753fb1-701e-40c5-ac7d-3a8713760217",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2027-01-01 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "ac3af401-763e-46ec-a1e8-e86367a6dd51",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2027-01-02 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
+    },
+    {
+      "uuid": "5e255f43-58c3-4045-91bc-55beb4c827d3",
+      "titulo": "Férias Férias Coletivas Loja",
+      "descricao": "Férias Coletivas Loja",
+      "data_inicio": "2027-01-03 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 12:00:15"
     },
     {
       "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
