@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T14:56:14Z",
-  "total": 198,
+  "updated_at": "2026-10-19T14:58:43Z",
+  "total": 205,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -806,6 +806,72 @@
       "criado_em": "2026-05-29 21:59:35"
     },
     {
+      "uuid": "60d8fdd0-e57e-479e-aade-d8ffde62301b",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-11 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "ed8b9fdc-ab72-4bfd-a9f3-6b9618182103",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-12 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "7d1846d9-e192-4459-8120-59e2e98ca67e",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-13 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "bbafa049-2ddc-4ed5-b755-eb3a218cfd1c",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-14 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "812c8d3d-2874-46fc-aa50-17374a262588",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-15 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "63633ab8-3101-496f-aaed-2e385eabe8b4",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-16 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
       "uuid": "b8f0271c-6b16-4733-bfd6-5ad3be8e214f",
       "titulo": "Casamento Francilaini e Danrlei",
       "descricao": "Casamento Francilaini e Danrlei\n17:00h - Igreja Matriz de Jacinto Machado\nFotografar apenas a Cerimônia.\nSerão apenas 5 Convidados.\nNão terá recepção.\n(Francilaini é a irmã da Nataliana).",
@@ -815,6 +881,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-08-25 11:37:23"
+    },
+    {
+      "uuid": "534db553-c22c-4ff4-8447-9f2bb59bf597",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-17 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
     },
     {
       "uuid": "16dfcbc5-074a-4049-8413-7d0d9f63b8e0",
@@ -828,6 +905,72 @@
       "criado_em": "2026-08-11 18:33:31"
     },
     {
+      "uuid": "67dd79fe-80fb-4c23-9a1d-a7b57b1a68fb",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-18 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "50e0a920-4929-4301-b2cd-715893bf8560",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-19 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "d11db399-f022-4c8f-b2d6-6bac6332763b",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-20 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "c13829da-dab0-4b5a-83b5-cf199813d61c",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-21 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "fbef8a1a-695b-4883-9e1b-cbdfee2dd0a6",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-22 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "abe36684-b553-4750-b041-23d82a110c37",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-23 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
       "uuid": "c4b7dfd7-fc4b-40e5-8c27-dd60d2ec546a",
       "titulo": "Infantil 1 Aninho Henrique e Vicente",
       "descricao": "1 Aninho Henrique e Vicente\nFilhos da Vanessa e Giovani\nEspaço Luz, Bairro Gávea, Jacinto Machado / SC.\n(Levar a Julia para ajudar a chamar a atenção dos gêmeos)",
@@ -839,6 +982,17 @@
       "criado_em": "2026-08-25 10:13:48"
     },
     {
+      "uuid": "3228a5e3-c75c-4ad8-ac64-dc354e107124",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-24 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
       "uuid": "98dcdd66-af00-495d-ac6a-a5f14538cc92",
       "titulo": "Particular Eleições Presidenciais - 2º Turno",
       "descricao": "",
@@ -848,6 +1002,61 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:42:42"
+    },
+    {
+      "uuid": "9025f002-6f0b-4359-85c1-12a5bf84defd",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-25 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "b99b7c9d-6ecd-46cc-bffd-3107c1ddf87c",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-26 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "52ce570d-88b1-46f5-b597-41bac65b8e3d",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-27 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "a6eebc22-0e32-4746-a58e-0ea067766e73",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-28 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "6247b268-367c-4815-82c5-f7e5ba916e1a",
+      "titulo": "Particular Viagem Zé - China",
+      "descricao": "Viagem China e Europa",
+      "data_inicio": "2026-10-29 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:57:35"
     },
     {
       "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
@@ -1145,138 +1354,6 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
-    },
-    {
-      "uuid": "1db01291-4f51-4d57-badf-575bbdd5fb4c",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-23 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "3f3b7d92-ddf3-4a90-a469-53d9a771297d",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-24 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "40781e16-723c-4ff7-a8e7-3cd83af61c0b",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-25 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "bb056b69-dd9d-4c14-a184-627bad57d000",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-26 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "f5d344fb-0b07-4813-9539-00a070fda470",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-27 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "9353310a-5241-4c3c-9957-2dee119cbca1",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-28 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "138d976f-eaa3-4465-88c1-fdd5717128dd",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-29 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "52088f36-da3e-4728-a54a-79d66d5d4389",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-30 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "5402a8c3-f092-4828-ad23-54470b407ae8",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2026-12-31 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "39f3c2dc-72b2-4a2f-8dd3-472d9bbfbf32",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2027-01-01 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "ba658b22-9de6-4d37-a3fd-65f8031bfefe",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2027-01-02 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
-    },
-    {
-      "uuid": "deb6b718-b408-46b1-813f-4f52a7d655ec",
-      "titulo": "Férias Férias Coletivas",
-      "descricao": "Férias Loja",
-      "data_inicio": "2027-01-03 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 09:05:45"
     },
     {
       "uuid": "a1ebb233-81fe-456a-b0ef-5660f0a84633",
