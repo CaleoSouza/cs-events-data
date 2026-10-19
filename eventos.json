@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T14:48:46Z",
-  "total": 208,
+  "updated_at": "2026-10-19T14:49:22Z",
+  "total": 198,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -828,39 +828,6 @@
       "criado_em": "2026-08-11 18:33:31"
     },
     {
-      "uuid": "96743688-ff1a-4c46-8d73-d46e732ffae5",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-21 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "23347bca-dcfb-4b68-95e5-e81991758bb9",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-22 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "ba819327-c2fd-419f-94fa-1ddacdf3d61e",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-23 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
       "uuid": "c4b7dfd7-fc4b-40e5-8c27-dd60d2ec546a",
       "titulo": "Infantil 1 Aninho Henrique e Vicente",
       "descricao": "1 Aninho Henrique e Vicente\nFilhos da Vanessa e Giovani\nEspaço Luz, Bairro Gávea, Jacinto Machado / SC.\n(Levar a Julia para ajudar a chamar a atenção dos gêmeos)",
@@ -872,17 +839,6 @@
       "criado_em": "2026-08-25 10:13:48"
     },
     {
-      "uuid": "8f088063-21e3-440f-b2b4-d8e2e17b41b0",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-24 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
       "uuid": "98dcdd66-af00-495d-ac6a-a5f14538cc92",
       "titulo": "Particular Eleições Presidenciais - 2º Turno",
       "descricao": "",
@@ -892,72 +848,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-06-19 18:42:42"
-    },
-    {
-      "uuid": "43c0e8ad-a280-4632-a6c9-e049254184c0",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-25 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "132a5937-21c6-4f7a-a854-3cb9b1efb49d",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-26 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "801dfce6-6844-44f9-a75a-c16495b71adb",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-27 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "e25d9972-5528-4e89-b88b-576ffe24c02b",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-28 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "11ae76d3-c39f-483d-bb5c-4c0f72dd476e",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-29 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
-    },
-    {
-      "uuid": "0c069c7d-c6f8-4894-bdcb-a50717259f8b",
-      "titulo": "Férias Ju",
-      "descricao": "",
-      "data_inicio": "2026-10-30 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 11:48:42"
     },
     {
       "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
