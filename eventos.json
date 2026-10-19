@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T14:49:22Z",
-  "total": 198,
+  "updated_at": "2026-10-19T14:51:57Z",
+  "total": 200,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -850,6 +850,17 @@
       "criado_em": "2026-06-19 18:42:42"
     },
     {
+      "uuid": "e41920b1-d410-45ed-9e9b-d963ebd2dc38",
+      "titulo": "15 Anos kjnnk",
+      "descricao": "",
+      "data_inicio": "2026-10-29 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:51:54"
+    },
+    {
       "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
       "titulo": "Mini Sessão Angelica Possamai",
       "descricao": "Mini Sessão Familia 380,00\n16:30h",
@@ -859,6 +870,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-10-13 09:47:02"
+    },
+    {
+      "uuid": "b5438062-d2df-4ab2-8706-348b2ce5afeb",
+      "titulo": "15 Anos kjnnk",
+      "descricao": "",
+      "data_inicio": "2026-11-05 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:51:54"
     },
     {
       "uuid": "7f42630d-8f7c-47ec-8922-2955372ebffd",
