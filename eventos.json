@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T12:01:11Z",
-  "total": 211,
+  "updated_at": "2026-10-19T12:01:19Z",
+  "total": 210,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1101,17 +1101,6 @@
       "categoria": "reunião",
       "status": "ativo",
       "criado_em": "2026-10-06 10:11:39"
-    },
-    {
-      "uuid": "e4912f84-90ea-4e8f-8ab3-126810e79e34",
-      "titulo": "Férias Férias da Júlia",
-      "descricao": "",
-      "data_inicio": "2026-11-12 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-09-17 15:28:26"
     },
     {
       "uuid": "1854eb32-10b4-41d0-8637-0c79ed9d2a76",
