@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T14:55:15Z",
-  "total": 186,
+  "updated_at": "2026-10-19T14:56:14Z",
+  "total": 198,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -872,6 +872,17 @@
       "criado_em": "2026-10-05 11:27:04"
     },
     {
+      "uuid": "f6b205f9-0ac4-4071-9eba-6a51827f0725",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-07 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
       "uuid": "6f9cf6dd-2548-4a28-844d-1b05ed0dc7f6",
       "titulo": "Mini Sessão Raquel Casagrande",
       "descricao": "Mini Sessão Família às 16:30h",
@@ -881,6 +892,50 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-10-07 10:56:27"
+    },
+    {
+      "uuid": "18ddd354-2f20-4de4-bca5-dfeddd45cc8d",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-08 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "f9792d56-8751-41d4-894f-7949de00079c",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "d06342fd-6551-4030-8d50-8233e2e6b030",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-10 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "76a0ef31-2365-43aa-be72-d7ac83c4dfe7",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-11 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
     },
     {
       "uuid": "5cd70ae9-fbff-4645-b771-1e97fea9ec47",
@@ -894,6 +949,17 @@
       "criado_em": "2026-10-06 10:11:39"
     },
     {
+      "uuid": "a830b3bc-b40a-4456-83ce-789d1bfeacf9",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-12 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
       "uuid": "1854eb32-10b4-41d0-8637-0c79ed9d2a76",
       "titulo": "Mini Sessão Camila da Rosa",
       "descricao": "Familia as 16h (R$380,00)\nEntrada R$50,00",
@@ -903,6 +969,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-09-09 10:19:59"
+    },
+    {
+      "uuid": "1cbde92d-ecb1-4ad6-bc12-3197668c4ab1",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-13 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
     },
     {
       "uuid": "ac103ff3-942c-4dcf-bb9d-d351b938f0b7",
@@ -916,6 +993,39 @@
       "criado_em": "2026-05-29 22:03:43"
     },
     {
+      "uuid": "f884ea11-5523-49cd-b0e8-cec59ef3cdd2",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-14 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "524e314d-783a-4ed3-8631-20460ab79c0a",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-15 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "67014a26-d419-4abd-870e-6b3f1dbe2db7",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-16 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
       "uuid": "9aecc7a8-734e-497c-bcf4-8379e348f9ac",
       "titulo": "Particular Zé",
       "descricao": "Consulta Giuseppe 13:20h",
@@ -925,6 +1035,28 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-05-29 22:06:19"
+    },
+    {
+      "uuid": "ef15a178-6191-407b-8eaf-ad5acea05461",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-17 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "12debe7b-aee1-4ff5-91a8-cb29ae82c84b",
+      "titulo": "Férias Férias Julia",
+      "descricao": "Férias",
+      "data_inicio": "2026-11-18 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "férias",
+      "status": "ativo",
+      "criado_em": "2026-10-19 11:56:11"
     },
     {
       "uuid": "f3558a19-fd23-4b4b-bd97-71f8d58d0aad",
