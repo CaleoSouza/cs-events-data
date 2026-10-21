@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T20:08:18Z",
-  "total": 219,
+  "updated_at": "2026-10-21T20:09:46Z",
+  "total": 231,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -949,6 +949,17 @@
       "criado_em": "2026-10-19 11:57:35"
     },
     {
+      "uuid": "7f030f87-0e0c-4e6d-ab3a-70ec7b528f4f",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2026-10-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
+    },
+    {
       "uuid": "fbef8a1a-695b-4883-9e1b-cbdfee2dd0a6",
       "titulo": "Particular Viagem Zé - China",
       "descricao": "Viagem China e Europa",
@@ -1323,6 +1334,17 @@
       "criado_em": "2026-06-06 10:25:31"
     },
     {
+      "uuid": "8648f693-93d2-49b0-a6f3-85fff4dbb071",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2026-11-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
+    },
+    {
       "uuid": "d0786877-59f5-4e94-a768-7df223e565a3",
       "titulo": "Sessão 15 Anos Ana Ronconi (Angelita)",
       "descricao": "Sessão Fotográfica 15 Anos de Ana Ronconi Trevisol\n- Opção Selecionada: Ouro\n- Data: 01 de Dezembro de 2026 (Terça Feira)\n- Local: __________ (À definir)",
@@ -1376,6 +1398,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:14:44"
+    },
+    {
+      "uuid": "16a9ada4-530b-40b3-99e3-1b40d144a238",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2026-12-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
     },
     {
       "uuid": "d5e7fffa-0242-4a65-87e4-356d1912542f",
@@ -1519,6 +1552,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-06-19 18:53:19"
+    },
+    {
+      "uuid": "5810fd28-f1bd-465b-9ed6-f6e516dd73b3",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-01-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
     },
     {
       "uuid": "e2eb9f6d-84c7-4a89-87c5-86267464a6b6",
@@ -1697,6 +1741,17 @@
       "criado_em": "2026-06-19 18:52:21"
     },
     {
+      "uuid": "d6b8863b-9cd6-4cdc-9de8-b05cd788602f",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-02-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
+    },
+    {
       "uuid": "b6183d79-f470-4017-83f9-84674a814332",
       "titulo": "15 Anos Ana Ronconi",
       "descricao": "Filha da Angelita\nSaloon 449 - Sombrio SC",
@@ -1739,6 +1794,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-07-07 08:49:19"
+    },
+    {
+      "uuid": "a1b847b2-8a9c-4cae-8f1d-49f84802c689",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-03-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
     },
     {
       "uuid": "662ad27d-15d8-4c12-99a0-f58a937e91cf",
@@ -1926,6 +1992,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-07-01 09:57:41"
+    },
+    {
+      "uuid": "b86e5aa9-90d2-4831-aba7-e02fc4d0c190",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-04-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
     },
     {
       "uuid": "4225fcb6-23f7-4253-871e-29b331b60dcf",
@@ -2126,6 +2203,17 @@
       "criado_em": "2026-09-17 15:00:48"
     },
     {
+      "uuid": "e37033b5-8cf0-4c8a-b658-d463e615a033",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-05-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
+    },
+    {
       "uuid": "d5b65bd6-de13-48ab-9bf4-12aecc5d9eb3",
       "titulo": "Casamento Joice e Willian",
       "descricao": "Meleiro / SC",
@@ -2137,6 +2225,17 @@
       "criado_em": "2026-06-19 19:02:27"
     },
     {
+      "uuid": "a9b66e16-5b6f-45cc-9137-bff49cb1a155",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-06-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
+    },
+    {
       "uuid": "68fbd871-8f1a-4074-a895-f47ea4844da0",
       "titulo": "Infantil 1 Aninho Bento",
       "descricao": "Filho da Hérica e Edmilson",
@@ -2146,6 +2245,17 @@
       "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-07-24 11:23:48"
+    },
+    {
+      "uuid": "335666ce-21c4-4289-ad9c-9813ce50947a",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-07-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
     },
     {
       "uuid": "fe24b21d-e89b-49a7-8341-88904e03cc36",
@@ -2258,6 +2368,17 @@
       "criado_em": "2026-06-19 19:03:47"
     },
     {
+      "uuid": "a007f52a-beda-4809-a6d3-7c332d432cb7",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-08-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
+    },
+    {
       "uuid": "59fb210e-fa88-4048-81b8-4414e2a9bbff",
       "titulo": "Casamento Stefani e Luan",
       "descricao": "",
@@ -2289,6 +2410,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-07-13 17:07:56"
+    },
+    {
+      "uuid": "fc38b081-334f-401a-80f5-6423058c4c5e",
+      "titulo": "Particular Recarga Celulares",
+      "descricao": "Recarga Celulares Julia e Caléo",
+      "data_inicio": "2027-09-21 09:35",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 17:09:42"
     },
     {
       "uuid": "ae24c68a-6f58-4a14-86f1-0bb483d5805d",
