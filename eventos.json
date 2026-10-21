@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T01:58:50Z",
-  "total": 219,
+  "updated_at": "2026-10-21T02:01:29Z",
+  "total": 218,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -969,17 +969,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-19 11:57:35"
-    },
-    {
-      "uuid": "dca86c80-8f5d-41ce-8553-dc1bd1ffe5ea",
-      "titulo": "15 Anos Teste",
-      "descricao": "idhiuASHIUHASD",
-      "data_inicio": "2026-10-23 08:00",
-      "data_fim": "",
-      "local": "Jacinto",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-10-20 22:42:29"
     },
     {
       "uuid": "c4b7dfd7-fc4b-40e5-8c27-dd60d2ec546a",
