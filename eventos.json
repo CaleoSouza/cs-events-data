@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T20:09:46Z",
-  "total": 231,
+  "updated_at": "2026-10-21T21:45:17Z",
+  "total": 232,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -969,6 +969,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "57fde876-d641-4d84-941c-9bf7a1a7b06c",
+      "titulo": "Particular Caleo",
+      "descricao": "Consulta Daniel Araranguá",
+      "data_inicio": "2026-10-22 15:00",
+      "data_fim": "",
+      "local": "Araranguá",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-21 18:45:14"
     },
     {
       "uuid": "abe36684-b553-4750-b041-23d82a110c37",
