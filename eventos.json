@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T12:38:14Z",
-  "total": 218,
+  "updated_at": "2026-10-21T13:01:20Z",
+  "total": 219,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1090,6 +1090,17 @@
       "categoria": "reunião",
       "status": "ativo",
       "criado_em": "2026-10-05 11:27:04"
+    },
+    {
+      "uuid": "5598f035-db7e-488c-8972-3268072eb185",
+      "titulo": "Reunião Kayllany e Francisco",
+      "descricao": "Reunião On-line de Casamento",
+      "data_inicio": "2026-11-06 17:15",
+      "data_fim": "",
+      "local": "Loja",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-10-21 10:01:17"
     },
     {
       "uuid": "f6b205f9-0ac4-4071-9eba-6a51827f0725",
