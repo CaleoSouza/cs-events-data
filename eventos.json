@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T13:02:39Z",
-  "total": 219,
+  "updated_at": "2026-10-21T14:05:44Z",
+  "total": 221,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -960,6 +960,17 @@
       "criado_em": "2026-10-19 11:57:35"
     },
     {
+      "uuid": "3015f9f8-0f13-43ab-8f87-3c11a1f36d13",
+      "titulo": "Feminina Teste",
+      "descricao": "UASHDUISDNASUnsa\ndsadsadbiusadsa",
+      "data_inicio": "2026-10-22 08:00",
+      "data_fim": "",
+      "local": "Jacinto Machado",
+      "categoria": "feminina",
+      "status": "ativo",
+      "criado_em": "2026-10-21 11:05:42"
+    },
+    {
       "uuid": "abe36684-b553-4750-b041-23d82a110c37",
       "titulo": "Particular Viagem Zé - China",
       "descricao": "Viagem China e Europa",
@@ -969,6 +980,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "5ebd7099-650f-477e-b094-437c817f5a39",
+      "titulo": "Feminina Teste",
+      "descricao": "UASHDUISDNASUnsa\ndsadsadbiusadsa",
+      "data_inicio": "2026-10-23 08:00",
+      "data_fim": "",
+      "local": "Jacinto Machado",
+      "categoria": "feminina",
+      "status": "ativo",
+      "criado_em": "2026-10-21 11:05:42"
     },
     {
       "uuid": "c4b7dfd7-fc4b-40e5-8c27-dd60d2ec546a",
