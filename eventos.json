@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T13:33:48Z",
-  "total": 232,
+  "updated_at": "2026-10-22T22:27:45Z",
+  "total": 233,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1090,6 +1090,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "f3da8375-5f03-493c-ba74-14ebaa0be1ab",
+      "titulo": "Reunião Katlyn - Arrumar Album",
+      "descricao": "Arrumar Album as 8:30h",
+      "data_inicio": "2026-10-31 08:20",
+      "data_fim": "",
+      "local": "Loja",
+      "categoria": "reunião",
+      "status": "ativo",
+      "criado_em": "2026-10-22 19:27:43"
     },
     {
       "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
