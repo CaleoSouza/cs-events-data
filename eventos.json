@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T10:58:18Z",
-  "total": 234,
+  "updated_at": "2026-10-24T14:00:17Z",
+  "total": 235,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -925,6 +925,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-19 11:57:35"
+    },
+    {
+      "uuid": "dad365b7-f917-4351-9b02-0d8212ea332a",
+      "titulo": "Particular Terminar de separar fotos Duda e Patrick",
+      "descricao": "",
+      "data_inicio": "2026-10-19 09:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-10-24 11:00:15"
     },
     {
       "uuid": "d11db399-f022-4c8f-b2d6-6bac6332763b",
