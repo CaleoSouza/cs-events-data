@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T18:43:56Z",
-  "total": 235,
+  "updated_at": "2026-10-27T19:43:12Z",
+  "total": 236,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1134,6 +1134,17 @@
       "categoria": "reunião",
       "status": "ativo",
       "criado_em": "2026-10-05 11:27:04"
+    },
+    {
+      "uuid": "2e200260-fc63-4a86-aaa2-ffd453afd5a3",
+      "titulo": "Pré Wedding Cheila e Cristiano",
+      "descricao": "Opção Prata - Chapahalls",
+      "data_inicio": "2026-11-06 14:06",
+      "data_fim": "",
+      "local": "Chapahalls",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-10-27 16:43:09"
     },
     {
       "uuid": "5598f035-db7e-488c-8972-3268072eb185",
