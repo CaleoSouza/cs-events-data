@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T12:51:37Z",
-  "total": 238,
+  "updated_at": "2026-10-30T12:51:52Z",
+  "total": 237,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1090,17 +1090,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-19 11:57:35"
-    },
-    {
-      "uuid": "9c270b9b-fe4e-4acb-9fac-313558f5d620",
-      "titulo": "15 Anos hdtydr",
-      "descricao": "yggui",
-      "data_inicio": "2026-10-30 08:00",
-      "data_fim": "",
-      "local": "vghjn",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-10-30 09:51:35"
     },
     {
       "uuid": "f3da8375-5f03-493c-ba74-14ebaa0be1ab",
