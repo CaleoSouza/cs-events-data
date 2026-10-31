@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T13:44:09Z",
+  "updated_at": "2026-10-31T14:18:38Z",
   "total": 236,
   "eventos": [
     {
@@ -1114,17 +1114,6 @@
       "criado_em": "2026-10-28 19:43:25"
     },
     {
-      "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
-      "titulo": "Mini Sessão Angelica Possamai",
-      "descricao": "Mini Sessão Familia 380,00\n16:30h",
-      "data_inicio": "2026-11-03 14:30",
-      "data_fim": "",
-      "local": "Jardim Loja",
-      "categoria": "mini sessão",
-      "status": "ativo",
-      "criado_em": "2026-10-13 09:47:02"
-    },
-    {
       "uuid": "7f42630d-8f7c-47ec-8922-2955372ebffd",
       "titulo": "Reunião Juliana e Kleiton",
       "descricao": "Reunião de Casamento às 19:00h",
@@ -1211,6 +1200,17 @@
       "categoria": "férias",
       "status": "ativo",
       "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "293ce93d-585c-469e-ba12-0d6d9914067c",
+      "titulo": "Mini Sessão Angelica Possamai",
+      "descricao": "Mini Sessão Familia 380,00\n16:30h",
+      "data_inicio": "2026-11-10 14:30",
+      "data_fim": "",
+      "local": "Jardim Loja",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-10-13 09:47:02"
     },
     {
       "uuid": "76a0ef31-2365-43aa-be72-d7ac83c4dfe7",
