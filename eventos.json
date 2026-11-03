@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T21:15:51Z",
+  "updated_at": "2026-11-03T21:16:08Z",
   "total": 238,
   "eventos": [
     {
@@ -1114,17 +1114,6 @@
       "criado_em": "2026-10-28 19:43:25"
     },
     {
-      "uuid": "69a81493-60fe-4eef-bbf4-1a3886c7d1e9",
-      "titulo": "Cobertura de Evento Cerimônia do Jaleco - Unisul",
-      "descricao": "19:30h - Unisul em Criciúma / SC\nContratante: Ana Clara Possamai",
-      "data_inicio": "2026-11-05 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "cobertura de evento",
-      "status": "ativo",
-      "criado_em": "2026-11-03 18:15:49"
-    },
-    {
       "uuid": "7f42630d-8f7c-47ec-8922-2955372ebffd",
       "titulo": "Reunião Juliana e Kleiton",
       "descricao": "Reunião de Casamento às 19:00h",
@@ -1343,6 +1332,17 @@
       "categoria": "férias",
       "status": "ativo",
       "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "69a81493-60fe-4eef-bbf4-1a3886c7d1e9",
+      "titulo": "Cobertura de Evento Cerimônia do Jaleco - Unisul",
+      "descricao": "19:30h - Unisul em Criciúma / SC\nContratante: Ana Clara Possamai",
+      "data_inicio": "2026-11-17 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "cobertura de evento",
+      "status": "ativo",
+      "criado_em": "2026-11-03 18:15:49"
     },
     {
       "uuid": "12debe7b-aee1-4ff5-91a8-cb29ae82c84b",
