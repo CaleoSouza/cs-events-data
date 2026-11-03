@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T21:04:22Z",
-  "total": 237,
+  "updated_at": "2026-11-03T21:15:51Z",
+  "total": 238,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1112,6 +1112,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-28 19:43:25"
+    },
+    {
+      "uuid": "69a81493-60fe-4eef-bbf4-1a3886c7d1e9",
+      "titulo": "Cobertura de Evento Cerimônia do Jaleco - Unisul",
+      "descricao": "19:30h - Unisul em Criciúma / SC\nContratante: Ana Clara Possamai",
+      "data_inicio": "2026-11-05 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "cobertura de evento",
+      "status": "ativo",
+      "criado_em": "2026-11-03 18:15:49"
     },
     {
       "uuid": "7f42630d-8f7c-47ec-8922-2955372ebffd",
