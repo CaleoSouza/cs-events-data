@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T14:18:38Z",
-  "total": 236,
+  "updated_at": "2026-11-03T16:54:22Z",
+  "total": 237,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1398,6 +1398,17 @@
       "categoria": "sessão 15 anos",
       "status": "ativo",
       "criado_em": "2026-05-29 22:12:13"
+    },
+    {
+      "uuid": "9afe88c2-5cdb-4e50-a600-d512f9eeac74",
+      "titulo": "Particular Caléo Consulta",
+      "descricao": "Consulta Posto de Saúde",
+      "data_inicio": "2026-12-01 13:45",
+      "data_fim": "",
+      "local": "Posto de Saúde",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-03 13:54:19"
     },
     {
       "uuid": "5dea838c-7065-4bd1-b9d0-d875e9d2cd0a",
