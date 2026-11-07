@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:47:22Z",
+  "updated_at": "2026-11-07T12:47:55Z",
   "total": 237,
   "eventos": [
     {
@@ -1136,17 +1136,6 @@
       "criado_em": "2026-10-19 11:56:11"
     },
     {
-      "uuid": "6f9cf6dd-2548-4a28-844d-1b05ed0dc7f6",
-      "titulo": "Mini Sessão Raquel Casagrande",
-      "descricao": "Mini Sessão Família às 16:30h",
-      "data_inicio": "2026-11-07 14:30",
-      "data_fim": "",
-      "local": "Jardim Loja",
-      "categoria": "mini sessão",
-      "status": "ativo",
-      "criado_em": "2026-10-07 10:56:27"
-    },
-    {
       "uuid": "18ddd354-2f20-4de4-bca5-dfeddd45cc8d",
       "titulo": "Férias Férias Julia",
       "descricao": "Férias",
@@ -1387,6 +1376,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
+    },
+    {
+      "uuid": "6f9cf6dd-2548-4a28-844d-1b05ed0dc7f6",
+      "titulo": "Mini Sessão Raquel Casagrande",
+      "descricao": "Mini Sessão Família às 18:30h - Na Praça enfeitada de Natal",
+      "data_inicio": "2026-11-27 14:30",
+      "data_fim": "",
+      "local": "Jardim Loja",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-10-07 10:56:27"
     },
     {
       "uuid": "d0786877-59f5-4e94-a768-7df223e565a3",
