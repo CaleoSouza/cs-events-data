@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T11:42:42Z",
-  "total": 238,
+  "updated_at": "2026-11-09T11:44:20Z",
+  "total": 239,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1387,6 +1387,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
+    },
+    {
+      "uuid": "ad896bdf-3232-462e-8866-714ca30f5704",
+      "titulo": "Mini Sessão Angelica Possamai",
+      "descricao": "Mini Sessão Famila 380,00\n16:30h",
+      "data_inicio": "2026-11-24 14:00",
+      "data_fim": "",
+      "local": "Jardim Loja",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-11-09 08:44:18"
     },
     {
       "uuid": "6f9cf6dd-2548-4a28-844d-1b05ed0dc7f6",
