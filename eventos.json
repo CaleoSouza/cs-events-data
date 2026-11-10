@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T17:02:27Z",
-  "total": 240,
+  "updated_at": "2026-11-10T17:59:05Z",
+  "total": 241,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1662,6 +1662,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
+    },
+    {
+      "uuid": "15f237cc-e875-49e6-8a89-27ff4368c73d",
+      "titulo": "Pré Wedding Andressa e Tiago",
+      "descricao": "Sessão Prata\nNascer do Sol em Torres / RS",
+      "data_inicio": "2027-01-28 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-11-10 14:59:03"
     },
     {
       "uuid": "e2eb9f6d-84c7-4a89-87c5-86267464a6b6",
