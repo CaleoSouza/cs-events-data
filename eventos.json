@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T21:58:17Z",
-  "total": 241,
+  "updated_at": "2026-11-11T17:21:47Z",
+  "total": 240,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1508,17 +1508,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
-    },
-    {
-      "uuid": "d5e7fffa-0242-4a65-87e4-356d1912542f",
-      "titulo": "Férias Férias Coletivas Loja",
-      "descricao": "Férias Coletivas Loja",
-      "data_inicio": "2026-12-23 08:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "férias",
-      "status": "ativo",
-      "criado_em": "2026-10-19 12:00:15"
     },
     {
       "uuid": "e0ac9861-0e49-4623-81cd-799e0a7c3da1",
