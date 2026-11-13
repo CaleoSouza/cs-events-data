@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T14:26:05Z",
-  "total": 241,
+  "updated_at": "2026-11-13T14:44:21Z",
+  "total": 242,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1299,6 +1299,17 @@
       "categoria": "férias",
       "status": "ativo",
       "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "0a42edd1-2aa8-49f2-87be-472df6fd541f",
+      "titulo": "Particular Caleo Curso Claude",
+      "descricao": "Curso",
+      "data_inicio": "2026-11-16 18:45",
+      "data_fim": "",
+      "local": "Loja",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-13 11:44:18"
     },
     {
       "uuid": "9aecc7a8-734e-497c-bcf4-8379e348f9ac",
