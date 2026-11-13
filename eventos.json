@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T14:44:21Z",
+  "updated_at": "2026-11-13T17:25:44Z",
   "total": 242,
   "eventos": [
     {
@@ -1841,12 +1841,12 @@
     },
     {
       "uuid": "2eb73180-07fa-46b0-b555-14c87f5e60a8",
-      "titulo": "Particular 1 Aninho Giuseppe",
+      "titulo": "Infantil 1 Aninho Giuseppe",
       "descricao": "Festa de Aniversário do Bebê mais lindo da cidade! S2",
-      "data_inicio": "2027-02-14 00:00",
+      "data_inicio": "2027-02-14 10:00",
       "data_fim": "",
-      "local": "",
-      "categoria": "particular",
+      "local": "Brink Fest - Sombrio",
+      "categoria": "infantil",
       "status": "ativo",
       "criado_em": "2026-06-19 18:51:43"
     },
