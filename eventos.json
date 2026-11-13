@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T17:25:44Z",
-  "total": 242,
+  "updated_at": "2026-11-13T18:58:43Z",
+  "total": 243,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1420,6 +1420,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-10-07 10:56:27"
+    },
+    {
+      "uuid": "5e08ff51-9b48-4710-883e-0910e46848c2",
+      "titulo": "Casamento Jéssica e Everton",
+      "descricao": "Fotos somente na Cerimônia.\nSerão 15 Convidados.\n\nValor cobrado igual o de uma Mini Sessão:\nR$ 380,00 por 12 Fotos.\nFotos extras: R$ 15,00 cada",
+      "data_inicio": "2026-11-28 17:00",
+      "data_fim": "",
+      "local": "Igreja Matriz de Jacinto Machado",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-11-13 15:58:40"
     },
     {
       "uuid": "e26b2e94-f641-447c-bb62-02995a8d640a",
