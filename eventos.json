@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T22:24:18Z",
-  "total": 244,
+  "updated_at": "2026-11-14T12:09:01Z",
+  "total": 245,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1354,6 +1354,17 @@
       "categoria": "cobertura de evento",
       "status": "ativo",
       "criado_em": "2026-11-03 18:15:49"
+    },
+    {
+      "uuid": "83832f28-bb82-4c1d-8fe4-c7e590f1ea61",
+      "titulo": "Atendimento Fatima - Viagem",
+      "descricao": "Conversar sobre Viagem",
+      "data_inicio": "2026-11-17 09:00",
+      "data_fim": "",
+      "local": "Loja",
+      "categoria": "atendimento",
+      "status": "ativo",
+      "criado_em": "2026-11-14 09:08:58"
     },
     {
       "uuid": "12debe7b-aee1-4ff5-91a8-cb29ae82c84b",
