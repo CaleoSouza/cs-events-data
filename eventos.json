@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T14:47:13Z",
-  "total": 245,
+  "updated_at": "2026-11-16T14:48:07Z",
+  "total": 246,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1347,13 +1347,24 @@
     {
       "uuid": "d0ada0ea-5161-4dd0-b858-ba849e6d91e8",
       "titulo": "Particular Zé",
-      "descricao": "Reunião na Brink Fest em Sombrio",
+      "descricao": "Reunião na Brink Fest em Sombrio às 15:00h",
       "data_inicio": "2026-11-17 15:00",
       "data_fim": "",
       "local": "",
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-11-16 11:46:07"
+    },
+    {
+      "uuid": "e3b4a7b3-c83c-4407-87c9-7840dea14e63",
+      "titulo": "Particular Zé",
+      "descricao": "Sessão de Fotos 9 Meses Giuseppe.\nGiovana Garcia - Sombrio\nÀs 16:00h",
+      "data_inicio": "2026-11-17 16:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-16 11:48:05"
     },
     {
       "uuid": "12debe7b-aee1-4ff5-91a8-cb29ae82c84b",
