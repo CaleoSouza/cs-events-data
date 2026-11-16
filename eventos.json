@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T14:44:19Z",
-  "total": 244,
+  "updated_at": "2026-11-16T14:46:10Z",
+  "total": 245,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1299,6 +1299,17 @@
       "categoria": "férias",
       "status": "ativo",
       "criado_em": "2026-10-19 11:56:11"
+    },
+    {
+      "uuid": "d0ada0ea-5161-4dd0-b858-ba849e6d91e8",
+      "titulo": "Particular Reunião na Brink Fest em Sombrio",
+      "descricao": "",
+      "data_inicio": "2026-11-16 15:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-16 11:46:07"
     },
     {
       "uuid": "0a42edd1-2aa8-49f2-87be-472df6fd541f",
