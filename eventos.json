@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:09:01Z",
+  "updated_at": "2026-11-16T14:19:05Z",
   "total": 245,
   "eventos": [
     {
@@ -1268,17 +1268,6 @@
       "criado_em": "2026-10-27 16:43:09"
     },
     {
-      "uuid": "3cb3c613-632f-4391-b049-8f12f8276899",
-      "titulo": "15 Anos Raila",
-      "descricao": "Sem Making Of\nEstar no Saloon às 17:45h\nFazer fotos dela na decoração e nos jardins em frente ao Saloon.\nO horário de início é as 19:30h.\nFilha do Nei Póca.",
-      "data_inicio": "2026-11-14 19:30",
-      "data_fim": "",
-      "local": "",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-11-13 16:01:32"
-    },
-    {
       "uuid": "524e314d-783a-4ed3-8631-20460ab79c0a",
       "titulo": "Férias Férias Julia",
       "descricao": "Férias",
@@ -1420,6 +1409,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
+    },
+    {
+      "uuid": "3cb3c613-632f-4391-b049-8f12f8276899",
+      "titulo": "15 Anos Raila",
+      "descricao": "Sem Making Of\nEstar no Saloon às 17:45h\nFazer fotos dela na decoração e nos jardins em frente ao Saloon.\nO horário de início é as 19:30h.\nFilha do Nei Póca.",
+      "data_inicio": "2026-11-21 19:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-11-13 16:01:32"
     },
     {
       "uuid": "ad896bdf-3232-462e-8866-714ca30f5704",
