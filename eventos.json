@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T22:12:56Z",
-  "total": 251,
+  "updated_at": "2026-11-16T22:13:31Z",
+  "total": 252,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1541,6 +1541,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-11-16 19:12:54"
+    },
+    {
+      "uuid": "c1dd7227-be06-42c5-9286-5e380ea7e8dc",
+      "titulo": "Particular Zé não vai estar!",
+      "descricao": "Brusque / SC",
+      "data_inicio": "2026-12-05 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-16 19:13:28"
     },
     {
       "uuid": "f3558a19-fd23-4b4b-bd97-71f8d58d0aad",
