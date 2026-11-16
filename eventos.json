@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T22:13:31Z",
-  "total": 252,
+  "updated_at": "2026-11-16T22:14:42Z",
+  "total": 253,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1574,6 +1574,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-10-27 15:36:46"
+    },
+    {
+      "uuid": "e4c9b579-a8b6-4837-ac7e-c82430c6e66b",
+      "titulo": "Particular Zé Souza",
+      "descricao": "Ir em Florianópolis buscar a Gisa que está vindo da Alemanha.",
+      "data_inicio": "2026-12-09 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-16 19:14:40"
     },
     {
       "uuid": "77097c99-e4b0-4067-b2f6-e7d2345694ac",
