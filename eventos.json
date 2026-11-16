@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:45:41Z",
+  "updated_at": "2026-11-16T16:59:38Z",
   "total": 246,
   "eventos": [
     {
@@ -1378,17 +1378,6 @@
       "criado_em": "2026-10-19 11:56:11"
     },
     {
-      "uuid": "f3558a19-fd23-4b4b-bd97-71f8d58d0aad",
-      "titulo": "Pré Wedding Leticia Bettiol e Rafael",
-      "descricao": "Sessão Fotográfica Pré Wedding de Letícia e Rafael\n- Opção Selecionada: Prata\n- Data: 10 de Dezembro de 2026 (Quinta Feira)\n- Local: ____ à definir.",
-      "data_inicio": "2026-11-19 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "pré wedding",
-      "status": "ativo",
-      "criado_em": "2026-05-29 22:07:37"
-    },
-    {
       "uuid": "97818076-e0ac-4e92-8c60-a44c5aaacf55",
       "titulo": "Casamento Lara e Ryan",
       "descricao": "Cobertura Fotográfica do Casamento de Lara e Ryan\n- Opção Selecionada: Diamante\n- Data: 20 de Novembro de 2026 (Sexta Feira)\n- Horário do início do Making Of da Noiva: 16:30h\n- Local do Making Of da Noiva: Maiara Melo Beauty – Sombrio / SC\n- Horário do início do Making Of do Noivo: 17:00h\n- Local do Making Of do Noivo: Casa dos Noivos – Bairro São Camilo em Sombrio / SC\n- Horário do início da Cerimônia: 19:00h\n- Local da Cerimônia: Gabiatti Centro de Eventos, Sombrio / SC\n- Horário da Recepção: Logo após a cerimônia\n- Local da Recepção: Gabiatti Centro de Eventos, Sombrio / SC",
@@ -1497,6 +1486,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-11-03 13:54:19"
+    },
+    {
+      "uuid": "f3558a19-fd23-4b4b-bd97-71f8d58d0aad",
+      "titulo": "Pré Wedding Leticia Bettiol e Rafael",
+      "descricao": "Sessão Fotográfica Pré Wedding de Letícia e Rafael\n- Opção Prata\n\n05:00h às 06:30h - Fotos do Nascer do Sol no Hotel do Morro\n06:30h às 07:00h - Traslado do Hotel ao Balneário Ilhas\n07:00h às 08:30h - Fotos em Balneário Ilhas\n08:30h às 09:30h - Traslado de Balneário Ilhas à Araranguá\n09:30h às 10:00h - Fotos na Igreja\n10:00h às 11:00h - Fotos na Quadra de Tênis",
+      "data_inicio": "2026-12-08 05:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "pré wedding",
+      "status": "ativo",
+      "criado_em": "2026-05-29 22:07:37"
     },
     {
       "uuid": "5dea838c-7065-4bd1-b9d0-d875e9d2cd0a",
