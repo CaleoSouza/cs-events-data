@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T14:46:10Z",
+  "updated_at": "2026-11-16T14:46:36Z",
   "total": 245,
   "eventos": [
     {
@@ -1301,17 +1301,6 @@
       "criado_em": "2026-10-19 11:56:11"
     },
     {
-      "uuid": "d0ada0ea-5161-4dd0-b858-ba849e6d91e8",
-      "titulo": "Particular Reunião na Brink Fest em Sombrio",
-      "descricao": "",
-      "data_inicio": "2026-11-16 15:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "particular",
-      "status": "ativo",
-      "criado_em": "2026-11-16 11:46:07"
-    },
-    {
       "uuid": "0a42edd1-2aa8-49f2-87be-472df6fd541f",
       "titulo": "Particular Caleo Curso Claude",
       "descricao": "Curso",
@@ -1354,6 +1343,17 @@
       "categoria": "atendimento",
       "status": "ativo",
       "criado_em": "2026-11-14 09:08:58"
+    },
+    {
+      "uuid": "d0ada0ea-5161-4dd0-b858-ba849e6d91e8",
+      "titulo": "Particular Reunião na Brink Fest em Sombrio",
+      "descricao": "",
+      "data_inicio": "2026-11-17 15:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-16 11:46:07"
     },
     {
       "uuid": "12debe7b-aee1-4ff5-91a8-cb29ae82c84b",
