@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T16:59:38Z",
-  "total": 246,
+  "updated_at": "2026-11-16T19:39:23Z",
+  "total": 247,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1442,6 +1442,17 @@
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-10-07 10:56:27"
+    },
+    {
+      "uuid": "885a9d56-02b4-4fbb-9a08-7e7b8184df77",
+      "titulo": "Mini Sessão Gestante - Patrícia e Chico",
+      "descricao": "Às 16:30h no Chapahalls",
+      "data_inicio": "2026-11-27 16:30",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-11-16 16:39:21"
     },
     {
       "uuid": "5e08ff51-9b48-4710-883e-0910e46848c2",
