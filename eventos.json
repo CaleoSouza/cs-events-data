@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T22:09:13Z",
-  "total": 247,
+  "updated_at": "2026-11-16T22:09:51Z",
+  "total": 248,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1420,6 +1420,17 @@
       "categoria": "15 anos",
       "status": "ativo",
       "criado_em": "2026-11-13 16:01:32"
+    },
+    {
+      "uuid": "c039604e-2ad1-4846-bdfd-85b3ad508780",
+      "titulo": "Mini Sessão Fernando Darabas",
+      "descricao": "",
+      "data_inicio": "2026-11-23 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "mini sessão",
+      "status": "ativo",
+      "criado_em": "2026-11-16 19:09:49"
     },
     {
       "uuid": "ad896bdf-3232-462e-8866-714ca30f5704",
