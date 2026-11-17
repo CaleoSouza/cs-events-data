@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T11:08:50Z",
-  "total": 253,
+  "updated_at": "2026-11-17T14:51:39Z",
+  "total": 254,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1409,6 +1409,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
+    },
+    {
+      "uuid": "5dda9a6d-9a0d-47dd-a68b-da138a434beb",
+      "titulo": "Particular Caleo - Almoço Cris Burger",
+      "descricao": "Almoço as 11:40",
+      "data_inicio": "2026-11-21 11:30",
+      "data_fim": "",
+      "local": "Casa do Cris",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-17 11:51:36"
     },
     {
       "uuid": "3cb3c613-632f-4391-b049-8f12f8276899",
