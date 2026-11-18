@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:20:43Z",
+  "updated_at": "2026-11-18T19:39:02Z",
   "total": 254,
   "eventos": [
     {
@@ -1411,6 +1411,17 @@
       "criado_em": "2026-10-21 17:09:42"
     },
     {
+      "uuid": "3cb3c613-632f-4391-b049-8f12f8276899",
+      "titulo": "15 Anos Raila",
+      "descricao": "Sem Making Of\nEstar no Saloon às 17:45h\nFazer fotos dela na decoração e nos jardins em frente ao Saloon.\nO horário de início é as 19:30h.\nFilha do Nei Póca.",
+      "data_inicio": "2026-11-21 11:30",
+      "data_fim": "",
+      "local": "Saloon",
+      "categoria": "15 anos",
+      "status": "ativo",
+      "criado_em": "2026-11-13 16:01:32"
+    },
+    {
       "uuid": "5dda9a6d-9a0d-47dd-a68b-da138a434beb",
       "titulo": "Particular Caleo - Almoço Cris Burger",
       "descricao": "Almoço as 11:40",
@@ -1420,17 +1431,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-11-17 11:51:36"
-    },
-    {
-      "uuid": "3cb3c613-632f-4391-b049-8f12f8276899",
-      "titulo": "15 Anos Raila",
-      "descricao": "Sem Making Of\nEstar no Saloon às 17:45h\nFazer fotos dela na decoração e nos jardins em frente ao Saloon.\nO horário de início é as 19:30h.\nFilha do Nei Póca.",
-      "data_inicio": "2026-11-21 19:30",
-      "data_fim": "",
-      "local": "",
-      "categoria": "15 anos",
-      "status": "ativo",
-      "criado_em": "2026-11-13 16:01:32"
     },
     {
       "uuid": "c039604e-2ad1-4846-bdfd-85b3ad508780",
