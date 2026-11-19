@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T11:41:54Z",
-  "total": 254,
+  "updated_at": "2026-11-19T18:13:21Z",
+  "total": 255,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1618,6 +1618,17 @@
       "categoria": "casamento",
       "status": "ativo",
       "criado_em": "2026-09-14 16:53:46"
+    },
+    {
+      "uuid": "240ad6bc-e4f7-4df6-a696-7233f9697c64",
+      "titulo": "Formatura 9º Ano Albino Zanatta",
+      "descricao": "",
+      "data_inicio": "2026-12-14 08:00",
+      "data_fim": "",
+      "local": "",
+      "categoria": "formatura",
+      "status": "ativo",
+      "criado_em": "2026-11-19 15:13:19"
     },
     {
       "uuid": "23f10804-feae-4f7e-ab71-b58ece49962f",
