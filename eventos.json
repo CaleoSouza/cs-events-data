@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T11:52:38Z",
-  "total": 256,
+  "updated_at": "2026-11-23T12:10:03Z",
+  "total": 255,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1596,17 +1596,6 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-11-16 19:14:40"
-    },
-    {
-      "uuid": "77097c99-e4b0-4067-b2f6-e7d2345694ac",
-      "titulo": "Mini Sessão Maria Lourdes (Autentica)",
-      "descricao": "Mini Sessão Familia - R$380,00\npagou entrada R$150,00",
-      "data_inicio": "2026-12-10 14:00",
-      "data_fim": "",
-      "local": "Jardim Loja",
-      "categoria": "mini sessão",
-      "status": "ativo",
-      "criado_em": "2026-11-13 11:26:03"
     },
     {
       "uuid": "14896b87-86d5-4f33-ab06-0f62553970dc",
