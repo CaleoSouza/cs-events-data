@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T11:05:18Z",
-  "total": 255,
+  "updated_at": "2026-11-23T11:52:38Z",
+  "total": 256,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -2179,6 +2179,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-09-17 14:36:36"
+    },
+    {
+      "uuid": "df2802ac-ca9d-4fed-aa22-9b5a52780d6e",
+      "titulo": "Particular Casamento Eric e Carol",
+      "descricao": "Casamento Carol e Eric",
+      "data_inicio": "2027-04-10 09:00",
+      "data_fim": "",
+      "local": "Sítio Borges e Monteiro",
+      "categoria": "particular",
+      "status": "ativo",
+      "criado_em": "2026-11-23 08:52:36"
     },
     {
       "uuid": "2fee6b43-96e0-4853-b3b9-6ddaa17e9331",
