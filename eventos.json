@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:03:03Z",
+  "updated_at": "2026-11-24T17:04:32Z",
   "total": 255,
   "eventos": [
     {
@@ -1614,7 +1614,7 @@
       "descricao": "",
       "data_inicio": "2026-12-14 08:00",
       "data_fim": "",
-      "local": "",
+      "local": "Salão Gávea",
       "categoria": "formatura",
       "status": "ativo",
       "criado_em": "2026-11-19 15:13:19"
