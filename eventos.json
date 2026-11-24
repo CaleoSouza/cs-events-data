@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:41:40Z",
+  "updated_at": "2026-11-24T18:45:50Z",
   "total": 255,
   "eventos": [
     {
@@ -1471,7 +1471,7 @@
       "descricao": "Às 16:30h no Chapahalls",
       "data_inicio": "2026-11-27 16:30",
       "data_fim": "",
-      "local": "",
+      "local": "Chapahalls",
       "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-11-16 16:39:21"
