@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T20:07:00Z",
+  "updated_at": "2026-11-25T21:56:08Z",
   "total": 255,
   "eventos": [
     {
@@ -2621,17 +2621,6 @@
       "criado_em": "2026-09-17 14:47:07"
     },
     {
-      "uuid": "50101a07-0f17-4f48-8930-42807ac887c3",
-      "titulo": "Casamento Dienifer e Tiago",
-      "descricao": "Matriz JM + Saloon 449 em Sombrio SC",
-      "data_inicio": "2027-08-21 00:00",
-      "data_fim": "",
-      "local": "",
-      "categoria": "casamento",
-      "status": "ativo",
-      "criado_em": "2026-06-19 19:03:47"
-    },
-    {
       "uuid": "a007f52a-beda-4809-a6d3-7c332d432cb7",
       "titulo": "Particular Recarga Celulares",
       "descricao": "Recarga Celulares Julia e Caléo",
@@ -2641,6 +2630,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-10-21 17:09:42"
+    },
+    {
+      "uuid": "50101a07-0f17-4f48-8930-42807ac887c3",
+      "titulo": "Casamento Dienifer e Tiago",
+      "descricao": "Matriz JM + Saloon 449 em Sombrio SC",
+      "data_inicio": "2027-08-21 10:00",
+      "data_fim": "",
+      "local": "Matriz JM - Saloon 449",
+      "categoria": "casamento",
+      "status": "ativo",
+      "criado_em": "2026-06-19 19:03:47"
     },
     {
       "uuid": "59fb210e-fa88-4048-81b8-4414e2a9bbff",
