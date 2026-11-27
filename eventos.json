@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:50:10Z",
+  "updated_at": "2026-11-27T12:52:20Z",
   "total": 257,
   "eventos": [
     {
@@ -1511,12 +1511,12 @@
     },
     {
       "uuid": "42118e32-0621-4cdf-b8ca-3a634452ac80",
-      "titulo": "Família Caleo",
-      "descricao": "",
+      "titulo": "Mini Sessão 9º Ano Albino Zanatta",
+      "descricao": "Fotos para o Convite",
       "data_inicio": "2026-11-30 08:00",
       "data_fim": "",
-      "local": "",
-      "categoria": "família",
+      "local": "E.M.E.B. Albino Zanatta",
+      "categoria": "mini sessão",
       "status": "ativo",
       "criado_em": "2026-11-27 09:50:08"
     },
