@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T22:40:20Z",
-  "total": 255,
+  "updated_at": "2026-11-27T12:46:04Z",
+  "total": 256,
   "eventos": [
     {
       "uuid": "ff8c549f-d422-4333-bf01-7bb0f6577f45",
@@ -1497,6 +1497,17 @@
       "categoria": "particular",
       "status": "ativo",
       "criado_em": "2026-11-09 14:33:50"
+    },
+    {
+      "uuid": "5f1e117f-505c-4397-943d-6d0f0ac0af41",
+      "titulo": "Business Gih Floriano",
+      "descricao": "19:00h - Business Session Gih Floriano\nFundo branco e preto.",
+      "data_inicio": "2026-11-30 08:00",
+      "data_fim": "",
+      "local": "Souza Foto Art",
+      "categoria": "business",
+      "status": "ativo",
+      "criado_em": "2026-11-27 09:46:02"
     },
     {
       "uuid": "d0786877-59f5-4e94-a768-7df223e565a3",
